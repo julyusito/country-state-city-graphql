@@ -1,0 +1,24 @@
+# Este schema.graphql define los tipos para 'countries', 'states' y 'cities'.
+
+input AMPLIFY { globalAuthRule: AuthRule = { allow: public } } # FOR TESTING ONLY!
+
+type countries @model {
+  id: ID!
+  name: String!
+  states: [states] @hasMany(indexName: "byCountry", fields: ["id"])
+}
+
+type states @model {
+  id: ID!
+  name: String!
+  countryID: ID! @index(name: "byCountry")
+  country: countries @belongsTo(fields: ["countryID"])
+  cities: [cities] @hasMany(indexName: "byState", fields: ["id"])
+}
+
+type cities @model {
+  id: ID!
+  name: String!
+  stateID: ID! @index(name: "byState")
+  state: states @belongsTo(fields: ["stateID"])
+}
