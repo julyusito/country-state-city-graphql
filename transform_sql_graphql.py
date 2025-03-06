@@ -83,17 +83,17 @@ def parse_sql_file(sql_file):
 def extract_tuples_respecting_quotes(values_block):
     """
     Dado algo como:
-      "(1, 'hola (mundo)'), (2, 'x'), (3, 'y (z)')"
-    extrae cada tupla completa, respetando paréntesis internos que estén dentro de comillas.
+      "(1, 'Afghanistan'),(2, 'Albania'),(3, 'Algeria')"
+    extrae cada tupla de nivel superior ignorando las comas que separan
+    dichas tuplas.
 
-    Retorna un list de strings, cada uno sin los paréntesis exteriores.
-
-    Ejemplo:
-     "(774, 'Cocos (Keeling) Islands', 46),(775, 'Otro', 46)"
-      -> [
-          "774, 'Cocos (Keeling) Islands', 46",
-          "775, 'Otro', 46"
-         ]
+    Retorna una lista de strings, por ejemplo:
+      [
+        "1, 'Afghanistan'",
+        "2, 'Albania'",
+        "3, 'Algeria'"
+      ]
+    que luego se separan por comas con split_by_comma_robust.
     """
     results = []
     current = []
@@ -104,48 +104,74 @@ def extract_tuples_respecting_quotes(values_block):
 
     i = 0
     length = len(values_block)
-
     while i < length:
         char = values_block[i]
+
         if char == '\\':
             backslash_count += 1
             current.append(char)
             i += 1
+            continue
+
+        # Manejo de comillas
+        if char == "'" and not in_double_quote:
+            if backslash_count % 2 == 0:
+                in_single_quote = not in_single_quote
+            current.append(char)
+            backslash_count = 0
+        elif char == '"' and not in_single_quote:
+            if backslash_count % 2 == 0:
+                in_double_quote = not in_double_quote
+            current.append(char)
+            backslash_count = 0
+
+        # Manejo de paréntesis
+        elif char == '(' and not in_single_quote and not in_double_quote:
+            paren_depth += 1
+            current.append(char)
+            backslash_count = 0
+        elif char == ')' and not in_single_quote and not in_double_quote:
+            paren_depth -= 1
+            current.append(char)
+            backslash_count = 0
+
+            # Si paren_depth llegó a 0, terminamos una tupla
+            if paren_depth == 0:
+                tuple_str = ''.join(current)
+                # Ej: "(1, 'Afghanistan')"
+                # Quitamos el '(' y ')' exteriores
+                if tuple_str.startswith('(') and tuple_str.endswith(')'):
+                    tuple_str = tuple_str[1:-1]
+                results.append(tuple_str.strip())
+                current = []
+
+                # Ahora, SALTAR comas/espacios sueltos fuera de paréntesis
+                i += 1
+                while i < length:
+                    # mira el siguiente char
+                    nxt = values_block[i]
+                    # si vemos '(' => es la siguiente tupla
+                    if nxt == '(':
+                        # no lo consumimos, para el siguiente loop lo trata
+                        break
+                    # si es una coma o espacio, lo saltamos
+                    elif nxt in [',', ' ', '\n', '\t', '\r']:
+                        i += 1
+                        continue
+                    else:
+                        # si es otra cosa, la ignoramos o la pegamos
+                        # en general, no debería pasar
+                        i += 1
+                continue  # saltar el resto del while, que es i += 1
         else:
-            if char == "'" and not in_double_quote:
-                if backslash_count % 2 == 0:
-                    in_single_quote = not in_single_quote
-                current.append(char)
-                backslash_count = 0
-            elif char == '"' and not in_single_quote:
-                if backslash_count % 2 == 0:
-                    in_double_quote = not in_double_quote
-                current.append(char)
-                backslash_count = 0
-            elif char == '(' and not in_single_quote and not in_double_quote:
-                paren_depth += 1
-                current.append(char)
-                backslash_count = 0
-            elif char == ')' and not in_single_quote and not in_double_quote:
-                paren_depth -= 1
-                current.append(char)
-                backslash_count = 0
-                if paren_depth < 0:
-                    paren_depth = 0
-                if paren_depth == 0:
-                    # cerró una tupla de nivel superior
-                    tuple_str = ''.join(current)
-                    # Quitar los paréntesis exteriores
-                    if tuple_str.startswith('(') and tuple_str.endswith(')'):
-                        tuple_str = tuple_str[1:-1]
-                    results.append(tuple_str.strip())
-                    current = []
-            else:
-                current.append(char)
-                backslash_count = 0
-            i += 1
+            # algún caracter normal
+            current.append(char)
+            backslash_count = 0
+
+        i += 1
 
     return results
+
 
 
 def split_by_comma_robust(value_string):
