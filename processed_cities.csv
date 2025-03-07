@@ -5911,9 +5911,9 @@ id,name,state_id
 5910,Fayzabad,42
 5911,Jurm,42
 5912,Khandud,42
-5913,Qal\'eh-ye Panjeh,42
+5913,Qal eh-ye Panjeh,42
 5914,Bala Morghab,43
-5915,Qal\'eh-ye Naw,43
+5915,Qal eh-ye Naw,43
 5916,Andarab,44
 5917,Baghlan,44
 5918,Dahaneh-ye Ghawri,44
@@ -5927,7 +5927,7 @@ id,name,state_id
 5926,Tash Gozar,45
 5927,Bamiyan,46
 5928,Panjab,46
-5929,Qil Qal\'eh,46
+5929,Qil Qal eh,46
 5930,Anar Darreh,47
 5931,Farah,47
 5932,Shindand,47
@@ -5940,7 +5940,7 @@ id,name,state_id
 5939,Taywarah,49
 5940,Ghazni,50
 5941,Awbeh,51
-5942,Eslam Qal\'eh,51
+5942,Eslam Qal eh,51
 5943,Ghurian,51
 5944,Herat,51
 5945,Karukh,51
@@ -5990,7 +5990,7 @@ id,name,state_id
 5989,Orgun,63
 5990,Zareh Sharan,63
 5991,Zarghun Shahr,63
-5992,\'Ali Khayl,64
+5992,Ali Khayl,64
 5993,Ghardez,64
 5994,Charikar,65
 5995,Jabal-os-Saraj,65
@@ -5999,7 +5999,7 @@ id,name,state_id
 5998,Emam Saheb,67
 5999,Hazart Imam,67
 6000,Khanabad,67
-6001,Qal\'eh-ye Zal,67
+6001,Qal eh-ye Zal,67
 6002,Qunduz,67
 6003,Aybak,68
 6004,Kholm,68
@@ -6009,7 +6009,7 @@ id,name,state_id
 6008,Khwajeh Ghar,70
 6009,Rostaq,70
 6010,Taloqan,70
-6011,Yangi Qal\'eh,70
+6011,Yangi Qal eh,70
 6012,Deh Rawud,71
 6013,Gaz Ab,71
 6014,Tarin Kawt,71
@@ -6097,20 +6097,20 @@ id,name,state_id
 6096,Sidi Amar,114
 6097,al-Buni,114
 6098,al-Hajar,114
-6099,\'Abadlah,115
+6099,Abadlah,115
 6100,Bani Wanif,115
 6101,Bashshar,115
 6102,Qanadsan,115
 6103,Taghit,115
-6104,\'Aris,116
-6105,\'Ayn Tutah,116
+6104,Aris,116
+6105,Ayn Tutah,116
 6106,Barikah,116
 6107,Batnah,116
 6108,Marwanah,116
 6109,Naghaus,116
-6110,Ra\'s-al-\'Ayun,116
+6110,Ra s-al- Ayun,116
 6111,Tazult,116
-6112,\'Ayt Rizin,117
+6112,Ayt Rizin,117
 6113,Akbu,117
 6114,Amizur,117
 6115,Barbasha,117
@@ -6119,7 +6119,7 @@ id,name,state_id
 6118,Ighram,117
 6119,Sadduk,117
 6120,Shamini,117
-6121,Sidi \'Aysh,117
+6121,Sidi  Aysh,117
 6122,Taskaryut,117
 6123,Tazmalt,117
 6124,Timazrit,117
@@ -6130,7 +6130,7 @@ id,name,state_id
 6129,Sidi Khalid,118
 6130,Sidi Ukbah,118
 6131,Tulja,118
-6132,Um\'ash,118
+6132,Um ash,118
 6133,Zaribat-al-Wad,118
 6134,Awlad Salam,119
 6135,Awlad Yaysh,119
@@ -6145,21 +6145,21 @@ id,name,state_id
 6144,Maftah,119
 6145,Muzayah,119
 6146,Shabli,119
-6147,Shari\'ah,119
+6147,Shari ah,119
 6148,Shiffa,119
 6149,Sidi Mussa,119
 6150,Suma,119
 6151,Wadi al-Allagh,119
-6152,al-\'Afrun,119
-6153,al-Arba\'a,119
-6154,\'Ayn Bissim,120
+6152,al- Afrun,119
+6153,al-Arba a,119
+6154,Ayn Bissim,120
 6155,Aghbalu,120
-6156,Bi\'r Ghabalu,120
+6156,Bi r Ghabalu,120
 6157,Buirah,120
 6158,Lakhdariyah,120
 6159,Shurfa,120
 6160,Sur-al-Ghuzlan,120
-6161,\'Ayn Tayah,121
+6161,Ayn Tayah,121
 6162,Awlad Haddaj,121
 6163,Awlad Mussa,121
 6164,Bani Amran,121
@@ -6173,15 +6173,15 @@ id,name,state_id
 6172,Khamis-al-Khashnah,121
 6173,Nasiriyah,121
 6174,Raghayah,121
-6175,Sa\'abat,121
+6175,Sa abat,121
 6176,Tinyah,121
-6177,al-Arba\'a Tash,121
+6177,al-Arba a Tash,121
 6178,ar-Ruwibah,121
 6179,Ammi Mussa,123
 6180,Ghalizan,123
 6181,Jidiwiyah,123
 6182,Mazunah,123
-6183,Sidi Muhammad Ban \'Ali,123
+6183,Sidi Muhammad Ban  Ali,123
 6184,Wadi Rahiyu,123
 6185,Zammurah,123
 6186,Biryan,124
@@ -6189,37 +6189,37 @@ id,name,state_id
 6188,Ghardaia,124
 6189,Ghardayah,124
 6190,Matlili,124
-6191,al-Ghuli\'ah,124
+6191,al-Ghuli ah,124
 6192,al-Qararah,124
 6193,Ilizi,125
-6194,Amir \'Abd-al-Qadar,126
+6194,Amir  Abd-al-Qadar,126
 6195,Jijili,126
 6196,Shifka,126
 6197,Tahar,126
 6198,al-Miliyah,126
-6199,\'Ayn Wissarah,127
-6200,\'Ayn-al-Ibil,127
+6199,Ayn Wissarah,127
+6200,Ayn-al-Ibil,127
 6201,Birin,127
 6202,Dar Shiyukh,127
 6203,Hassi Bahbah,127
 6204,Jilfah,127
-6205,Mis\'ad,127
+6205,Mis ad,127
 6206,Sharif,127
 6207,al-Idrisiyah,127
 6208,Khanshalah,128
 6209,Sharshar,128
 6210,Tawziyanat,128
 6211,al-Mahmal,128
-6212,\'Ayn-al-Hajal,129
-6213,\'Ayn-al-Milh,129
-6214,Bu Sa\'adah,129
-6215,Hammam Dhala\'a,129
-6216,Ma\'adid,129
+6212,Ayn-al-Hajal,129
+6213,Ayn-al-Milh,129
+6214,Bu Sa adah,129
+6215,Hammam Dhala a,129
+6216,Ma adid,129
 6217,Maghra,129
 6218,Masilah,129
-6219,Sidi \'Aysa,129
+6219,Sidi  Aysa,129
 6220,Wanugha,129
-6221,\'Ayn Bu Sif,130
+6221,Ayn Bu Sif,130
 6222,Birwaghiyah,130
 6223,Midyah,130
 6224,Qasr-al-Bukhari,130
@@ -6229,7 +6229,7 @@ id,name,state_id
 6228,Milah,131
 6229,Qararam Quqa,131
 6230,Ruwashad,131
-6231,Salghum-al-\'Ayd,131
+6231,Salghum-al- Ayd,131
 6232,Sidi Maruf,131
 6233,Sidi Marwan,131
 6234,Tajananah,131
@@ -6242,29 +6242,29 @@ id,name,state_id
 6241,Tighinnif,132
 6242,Wadi al-Abtal,132
 6243,Zahana,132
-6244,\'Ayn Tadalas,133
+6244,Ayn Tadalas,133
 6245,Hassi Mamash,133
 6246,Mazaghran,133
 6247,Mustaghanam,133
 6248,Sidi Ali,133
-6249,\'Ayn Safra,134
+6249,Ayn Safra,134
 6250,Mishriyah,134
 6251,Naama,134
 6252,Oran,135
 6253,Ouargla,136
-6254,\'Ayn Bardah,137
+6254,Ayn Bardah,137
 6255,Bumahra Ahmad,137
-6256,Hamman Awlad \'Ali,137
+6256,Hamman Awlad  Ali,137
 6257,Qalmah,137
 6258,Wadi Zinati,137
-6259,\'Ayn Abid,138
-6260,\'Ayn Samara,138
+6259,Ayn Abid,138
+6260,Ayn Samara,138
 6261,Didush Murad,138
 6262,Hamma Bu Ziyan,138
 6263,Qustantinah,138
 6264,Zighut Yusuf,138
 6265,al-Khurub,138
-6266,\'Azzabah,139
+6266,Azzabah,139
 6267,Amjaz Adshish,139
 6268,Fil Fila,139
 6269,Karkira,139
@@ -6274,26 +6274,26 @@ id,name,state_id
 6273,Tamalus,139
 6274,al-Harush,139
 6275,al-Qull,139
-6276,\'Ayn \'Azl,140
-6277,\'Ayn Arnat,140
-6278,\'Ayn Taqrut,140
-6279,\'Ayn Wilman,140
-6280,\'Ayn-al-Khabira,140
+6276,Ayn  Azl,140
+6277,Ayn Arnat,140
+6278,Ayn Taqrut,140
+6279,Ayn Wilman,140
+6280,Ayn-al-Khabira,140
 6281,Bouira,140
-6282,Buq\'ah,140
+6282,Buq ah,140
 6283,Salah Bay,140
 6284,Satif,140
 6285,Setif,140
 6286,Ziyama Mansuriyah,140
-6287,al-\'Ulmah,140
-6288,\'Ayn-al-Hajar,141
-6289,Sayda\,141
-6290,\'Ayn Qazzan,144
-6291,\'Ayn Salah,144
+6287,al- Ulmah,140
+6288,Ayn-al-Hajar,141
+6289,Sayda,141
+6290,Ayn Qazzan,144
+6291,Ayn Salah,144
 6292,Tamanghasat,144
-6293,\'Ayn Binyan,145
-6294,Bu Isma\'il,145
-6295,Bu Midfar\'ah,145
+6293,Ayn Binyan,145
+6294,Bu Isma il,145
+6295,Bu Midfar ah,145
 6296,Damus,145
 6297,Duwirah,145
 6298,Hajut,145
@@ -6305,14 +6305,14 @@ id,name,state_id
 6304,Stawali,145
 6305,Tibazah,145
 6306,Ziralda,145
-6307,al-Qull\'ah,145
-6308,Bi\'r-al-\'Itir,146
+6307,al-Qull ah,145
+6308,Bi r-al- Itir,146
 6309,Hammamat,146
 6310,Mursut,146
 6311,Shariyah,146
 6312,Tibissah,146
 6313,Winzah,146
-6314,al-\'Awaynat,146
+6314,al- Awaynat,146
 6315,Awlad Mimun,147
 6316,Bani Mastar,147
 6317,Bani Sikran,147
@@ -6324,33 +6324,33 @@ id,name,state_id
 6323,Sabra,147
 6324,Shatwan,147
 6325,Sibdu,147
-6326,Sidi \'Abdallah,147
+6326,Sidi  Abdallah,147
 6327,Tilimsan,147
 6328,al-Mansurah,147
 6329,Tinduf,148
 6330,Thaniyat-al-Had,149
 6331,Tisamsilt,149
-6332,\'Ayn Dhahab,150
+6332,Ayn Dhahab,150
 6333,Firindah,150
 6334,Mahdiyah,150
-6335,Mashra\'a Asfa,150
+6335,Mashra a Asfa,150
 6336,Qasr Shillalah,150
 6337,Rahuyah,150
 6338,Sughar,150
 6339,Takhamarat,150
 6340,Tiyarat,150
-6341,\'Ayn Bayda,152
-6342,\'Ayn Fakrun,152
-6343,\'Ayn Kirshah,152
-6344,\'Ayn Malilah,152
-6345,Bi\'r Shuhada,152
+6341,Ayn Bayda,152
+6342,Ayn Fakrun,152
+6343,Ayn Kirshah,152
+6344,Ayn Malilah,152
+6345,Bi r Shuhada,152
 6346,Miskyanah,152
 6347,Shamurah,152
 6348,Umm-al-Bawaghi,152
-6349,\'Ayn Biya,153
-6350,\'Ayn-at-Turk,153
+6349,Ayn Biya,153
+6350,Ayn-at-Turk,153
 6351,Arzu,153
-6352,Bi\'r-al-Jir,153
+6352,Bi r-al-Jir,153
 6353,Butlilis,153
 6354,Hassi Bu Nif,153
 6355,Mars-al-Kabir,153
@@ -6360,7 +6360,7 @@ id,name,state_id
 6359,Wahran,153
 6360,al-Ansur,153
 6361,as-Saniyah,153
-6362,Hassi Mas\'ud,154
+6362,Hassi Mas ud,154
 6363,Nazla,154
 6364,Ruwisiyat,154
 6365,Tabisbast,154
@@ -6382,12 +6382,12 @@ id,name,state_id
 6381,Birkhadam,160
 6382,Burj-al-Kiffan,160
 6383,Dar-al-Bayda,160
-6384,al-Jaza\'ir,160
+6384,al-Jaza ir,160
 6385,Bayadha,161
 6386,Dabilah,161
-6387,Hassan \'Abd-al-Karim,161
+6387,Hassan  Abd-al-Karim,161
 6388,Hassi Halifa,161
-6389,Jama\'a,161
+6389,Jama a,161
 6390,Maqran,161
 6391,Qamar,161
 6392,Raqiba,161
@@ -6395,7 +6395,7 @@ id,name,state_id
 6394,Sidi Amran,161
 6395,al-Mighair,161
 6396,al-Wad,161
-6397,\'Ayn Maran,162
+6397,Ayn Maran,162
 6398,Abu al-Hassan,162
 6399,Bani Hawa,162
 6400,Bu Qadir,162
@@ -6409,24 +6409,24 @@ id,name,state_id
 6408,Bani Amar,163
 6409,Basbas,163
 6410,Dariyan,163
-6411,Saba\'ita Muk,163
-6412,al-Qal\'ah,163
+6411,Saba ita Muk,163
+6412,al-Qal ah,163
 6413,at-Tarif,163
 6414,Afono,164
 6415,Alao,164
 6416,Alofau,164
 6417,Amouli,164
 6418,Aoa,164
-6419,Atu\'u,164
+6419,Atu u,164
 6420,Aua,164
-6421,Aunu\'u,164
-6422,Faga\'alu,164
-6423,Faga\'itua,164
+6421,Aunu u,164
+6422,Faga alu,164
+6423,Faga itua,164
 6424,Fagasa,164
 6425,Fagatogo,164
-6426,Lauli\'i,164
+6426,Lauli i,164
 6427,Leloaloa,164
-6428,Nu\'uuli,164
+6428,Nu uuli,164
 6429,Pago Pago,164
 6430,Tula,164
 6431,Utulei,164
@@ -6435,14 +6435,14 @@ id,name,state_id
 6434,Aoloau,167
 6435,Faleniu,167
 6436,Futiga,167
-6437,Ili\'ili,167
+6437,Ili ili,167
 6438,Leone,167
 6439,Malaeimi,167
 6440,Malaeloa-Aitulagi,167
 6441,Malaeloa-Ituau,167
 6442,Mapusagafou,167
 6443,Mesepa,167
-6444,Pava\'ia\'i,167
+6444,Pava ia i,167
 6445,Tafuna,167
 6446,Taputimu,167
 6447,Vailoatai,167
@@ -6478,8 +6478,8 @@ id,name,state_id
 6477,Namibe,190
 6478,Camabatela,191
 6479,Uige,191
-6480,M\'banza-Kongo,192
-6481,N\'zeto,192
+6480,M banza-Kongo,192
+6481,N zeto,192
 6482,Soyo,192
 6483,Codrington,201
 6484,Catamarca,209
@@ -7253,7 +7253,7 @@ id,name,state_id
 7252,Freetown,317
 7253,Rock Sound,317
 7254,Pirates Well,322
-7255,\'Isa,327
+7255,Isa,327
 7256,Badiyah,328
 7257,Hidd,329
 7258,Mahama,331
@@ -7261,7 +7261,7 @@ id,name,state_id
 7260,Sitrah,333
 7261,al-Manamah,334
 7262,al-Muharraq,335
-7263,ar-Rifa\'a,336
+7263,ar-Rifa a,336
 7264,Bandarban,338
 7265,Barguna,339
 7266,Barisal,340
@@ -7367,7 +7367,7 @@ id,name,state_id
 7366,Netrakona,383
 7367,Domar,384
 7368,Nilphamari,384
-7369,Sa\'idpur,384
+7369,Sa idpur,384
 7370,Begamganj,385
 7371,Noakhali,385
 7372,Senbagh,385
@@ -7429,8 +7429,8 @@ id,name,state_id
 7428,Chechersk,414
 7429,Dobrush,414
 7430,Hojniki,414
-7431,Homjel\,414
-7432,Jel\'sk,414
+7431,Homjel,414
+7432,Jel sk,414
 7433,Kalinkavichy,414
 7434,Kascjukovka,414
 7435,Mazyr,414
@@ -7450,9 +7450,9 @@ id,name,state_id
 7449,Masty,415
 7450,Navahrudak,415
 7451,Shchuchyn,415
-7452,Skidel\,415
+7452,Skidel,415
 7453,Slonim,415
-7454,Smarhon\,415
+7454,Smarhon,415
 7455,Vawkavysk,415
 7456,Asipovichy,416
 7457,Babrujsk,416
@@ -7469,7 +7469,7 @@ id,name,state_id
 7468,Slaeuharad,416
 7469,Minsk,418
 7470,Petrikov,420
-7471,Baran\,421
+7471,Baran,421
 7472,Braslav,421
 7473,Chashniki,421
 7474,Disna,421
@@ -7477,10 +7477,10 @@ id,name,state_id
 7476,Dubrovna,421
 7477,Haradok,421
 7478,Hlybokaje,421
-7479,Ljepjel\,421
+7479,Ljepjel,421
 7480,Mjory,421
 7481,Navapolack,421
-7482,Novalukoml\,421
+7482,Novalukoml,421
 7483,Orsha,421
 7484,Pastavy,421
 7485,Polack,421
@@ -7608,7 +7608,7 @@ id,name,state_id
 7607,Farciennes,428
 7608,Fleurus,428
 7609,Flobecq,428
-7610,Fontaine-l\'Eveque,428
+7610,Fontaine-l Eveque,428
 7611,Frameries,428
 7612,Frasnes-lez-Anvaing,428
 7613,Froidchapelle,428
@@ -7629,7 +7629,7 @@ id,name,state_id
 7628,Merbes-le-Chateau,428
 7629,Momignies,428
 7630,Mons,428
-7631,Mont-de-l\'Enclus,428
+7631,Mont-de-l Enclus,428
 7632,Montigny-le-Tilleul,428
 7633,Morlanwelz,428
 7634,Mouscron,428
@@ -8567,7 +8567,7 @@ id,name,state_id
 8566,Minador do Negrao,513
 8567,Murici,513
 8568,Novo Lino,513
-8569,Olho d\'Agua das Flores,513
+8569,Olho d Agua das Flores,513
 8570,Olivenca,513
 8571,Palmeira dos Indios,513
 8572,Pao de Acucar,513
@@ -8703,7 +8703,7 @@ id,name,state_id
 8702,Correntina,516
 8703,Cruz das Almas,516
 8704,Curaca,516
-8705,Dias d\'Avila,516
+8705,Dias d Avila,516
 8706,Encruzilhada,516
 8707,Entre Rios,516
 8708,Esplanada,516
@@ -9104,7 +9104,7 @@ id,name,state_id
 9103,Montes Altos,522
 9104,Morros,522
 9105,Nova Olinda do Maranhao,522
-9106,Olho d\'Agua das Cunhas,522
+9106,Olho d Agua das Cunhas,522
 9107,Paco do Lumiar,522
 9108,Paraibano,522
 9109,Parnarama,522
@@ -9627,10 +9627,10 @@ id,name,state_id
 9626,Uniao,530
 9627,Urucui,530
 9628,Valenca do Piaui,530
-9629,Alta Floresta d\'Oeste,534
+9629,Alta Floresta d Oeste,534
 9630,Alto Alegre do Parecis,534
 9631,Alto Paraiso,534
-9632,Alvorada d\'Oeste,534
+9632,Alvorada d Oeste,534
 9633,Ariquemes,534
 9634,Buritis,534
 9635,Cacoal,534
@@ -9638,15 +9638,15 @@ id,name,state_id
 9637,Cerejeiras,534
 9638,Colorado do Oeste,534
 9639,Corumbiara,534
-9640,Espigao d\'Oeste,534
+9640,Espigao d Oeste,534
 9641,Governador Jorge Teixeira,534
 9642,Guajara-Mirim,534
 9643,Jaru,534
 9644,Ji-Parana,534
-9645,Machadinho d\'Oeste,534
+9645,Machadinho d Oeste,534
 9646,Ministro Andreazza,534
 9647,Mirante da Serra,534
-9648,Nova Brasilandia d\'Oeste,534
+9648,Nova Brasilandia d Oeste,534
 9649,Nova Mamore,534
 9650,Novo Horizonte do Oeste,534
 9651,Ouro Preto do Oeste,534
@@ -9654,7 +9654,7 @@ id,name,state_id
 9653,Porto Velho,534
 9654,Presidente Medici,534
 9655,Rolim de Moura,534
-9656,Santa Luzia d\'Oeste,534
+9656,Santa Luzia d Oeste,534
 9657,Sao Miguel do Guapore,534
 9658,Urupa,534
 9659,Vale do Paraiso,534
@@ -9684,7 +9684,7 @@ id,name,state_id
 9683,Indiaroba,538
 9684,Itabaiana,538
 9685,Itabaianinha,538
-9686,Itaporanga d\'Ajuda,538
+9686,Itaporanga d Ajuda,538
 9687,Japaratuba,538
 9688,Japoata,538
 9689,Lagarto,538
@@ -9952,7 +9952,7 @@ id,name,state_id
 9951,Banfora,581
 9952,Zorgo,582
 9953,Bogande,583
-9954,Fada N\'gourma,584
+9954,Fada N gourma,584
 9955,Bekuy,585
 9956,Bobo Dioulasso,585
 9957,Dano,586
@@ -10268,7 +10268,7 @@ id,name,state_id
 10267,Aylmer,671
 10268,Ayr,671
 10269,Barrie,671
-10270,Barry\'s Bay,671
+10270,Barry s Bay,671
 10271,Beamsville,671
 10272,Beaverton,671
 10273,Beeton,671
@@ -10390,7 +10390,7 @@ id,name,state_id
 10389,Kingston,671
 10390,Kirkland Lake,671
 10391,Kitchener,671
-10392,L\'Original,671
+10392,L Original,671
 10393,Lakefield,671
 10394,Lanark,671
 10395,Leamington,671
@@ -10627,9 +10627,9 @@ id,name,state_id
 10626,Huntingdon,673
 10627,Joliette,673
 10628,Kingsey Falls,673
-10629,L\'Annonciation,673
-10630,L\'Ascension-de-Notre-Seigneur,673
-10631,L\'Epiphanie,673
+10629,L Annonciation,673
+10630,L Ascension-de-Notre-Seigneur,673
+10631,L Epiphanie,673
 10632,La Malbaie,673
 10633,La Pocatiere,673
 10634,La Sarre,673
@@ -10752,7 +10752,7 @@ id,name,state_id
 10751,Saint-Raphael,673
 10752,Saint-Raymond,673
 10753,Saint-Remi,673
-10754,Saint-Roch-de-l\'Achigan,673
+10754,Saint-Roch-de-l Achigan,673
 10755,Saint-Sauveur-des-Monts,673
 10756,Saint-Tite,673
 10757,Sainte-Adele,673
@@ -10787,7 +10787,7 @@ id,name,state_id
 10786,Trois-Pistoles,673
 10787,Trois-Rivieres,673
 10788,Val-David,673
-10789,Val-d\'Or,673
+10789,Val-d Or,673
 10790,Valcourt,673
 10791,Vallee-Jonction,673
 10792,Vaudreuil,673
@@ -10814,7 +10814,7 @@ id,name,state_id
 10813,Estevan,674
 10814,Eston,674
 10815,Foam Lake,674
-10816,Fort Qu\'Appelle,674
+10816,Fort Qu Appelle,674
 10817,Gravelbourg,674
 10818,Grenfell,674
 10819,Gull Lake,674
@@ -10924,7 +10924,7 @@ id,name,state_id
 10923,Massaguet,706
 10924,Massakory,706
 10925,Massenya,706
-10926,N\'Djamena,706
+10926,N Djamena,706
 10927,Ngama,706
 10928,Bitkine,707
 10929,Melfi,707
@@ -10961,7 +10961,7 @@ id,name,state_id
 10960,Coihaique,717
 10961,Guaitecas,717
 10962,Lago Verde,717
-10963,O\'Higgins,717
+10963,O Higgins,717
 10964,Rio Ibanez,717
 10965,Tortel,717
 10966,Antofagasta,718
@@ -13481,9 +13481,9 @@ id,name,state_id
 13889,Bongouanou,862
 13890,Daoukro,862
 13891,Dimbokro,862
-13892,M\'bahiakro,862
+13892,M bahiakro,862
 13893,Mbatto,862
-13894,N\'zi-Comoe,862
+13894,N zi-Comoe,862
 13895,San-Pedro,863
 13896,Sassandra,863
 13897,Soubre,863
@@ -14238,7 +14238,7 @@ id,name,state_id
 14646,Letovice,918
 14647,Mikulov,918
 14648,Moravsky Krumlov,918
-14649,Namesht\' nad Oslavou,918
+14649,Namesht  nad Oslavou,918
 14650,Rosice,918
 14651,Shlapanice,918
 14652,Slavkov u Brna,918
@@ -14380,7 +14380,7 @@ id,name,state_id
 14788,Zhamberk,927
 14789,Dobrany,928
 14790,Domazhlice,928
-14791,Horazhd\'ovice,928
+14791,Horazhd ovice,928
 14792,Horshovky Tyn,928
 14793,Kdyne,928
 14794,Klatovy,928
@@ -14474,9 +14474,9 @@ id,name,state_id
 14882,Svetla nad Sazavou,939
 14883,Telch,939
 14884,Trebich,939
-14885,Tresht\,939
+14885,Tresht,939
 14886,Velke Mezirichi,939
-14887,Zhd\'ar,939
+14887,Zhd ar,939
 14888,Brumov,940
 14889,Bystrice pod Hostynem,940
 14890,Chropyne,940
@@ -15013,18 +15013,18 @@ id,name,state_id
 15421,Nasr,1048
 15422,Nasr City,1048
 15423,Obour City,1048
-15424,\'Izbat-al-Burj,1049
+15424,Izbat-al-Burj,1049
 15425,Damietta,1049
 15426,Dumyat,1049
 15427,El-Zarka,1049
 15428,Faraskur,1049
-15429,Kafr Sa\'d,1049
+15429,Kafr Sa d,1049
 15430,Kafr-al-Battikh,1049
 15431,az-Zarqa,1049
 15432,Biyala,1050
 15433,Disuq,1050
 15434,Fuwah,1050
-15435,Kafr-al-Jara\'idah,1050
+15435,Kafr-al-Jara idah,1050
 15436,Kafr-ash-Shaykh,1050
 15437,Mutubis,1050
 15438,Qallin,1050
@@ -15037,9 +15037,9 @@ id,name,state_id
 15445,Nasr,1051
 15446,Sidi Barrani,1051
 15447,Zawiyat Shammas,1051
-15448,ad-Da\'ba,1051
+15448,ad-Da ba,1051
 15449,Armant,1057
-15450,Asfun-al-Mata\'inah,1057
+15450,Asfun-al-Mata inah,1057
 15451,Dandarah,1057
 15452,Dishna,1057
 15453,Farshut,1057
@@ -15047,8 +15047,8 @@ id,name,state_id
 15455,Hiw,1057
 15456,Idfu,1057
 15457,Isna,1057
-15458,Kiman-al-Mata\'inah,1057
-15459,Naj\' Hammadi,1057
+15458,Kiman-al-Mata inah,1057
+15459,Naj  Hammadi,1057
 15460,Naqadah,1057
 15461,Qift,1057
 15462,Qina,1057
@@ -15079,7 +15079,7 @@ id,name,state_id
 15487,Shirbin,1061
 15488,Talkha,1061
 15489,al-Jamaliyah,1061
-15490,al-Ma\'sarah,1061
+15490,al-Ma sarah,1061
 15491,al-Mansurah,1061
 15492,al-Manzilah,1061
 15493,al-Matariyah,1061
@@ -15093,7 +15093,7 @@ id,name,state_id
 15501,Buturis,1063
 15502,Damanhur,1063
 15503,Edfina,1063
-15504,Hawsh \'Isa,1063
+15504,Hawsh  Isa,1063
 15505,Idku,1063
 15506,Ityay-al-Barud,1063
 15507,Kafr Salim,1063
@@ -15130,7 +15130,7 @@ id,name,state_id
 15538,Agamy,1066
 15539,al-Iskandariyah,1066
 15540,al-Maks,1066
-15541,Fa\'id,1067
+15541,Fa id,1067
 15542,Sarabiyum,1067
 15543,al-Ismailiyah,1067
 15544,Atfih,1068
@@ -15139,7 +15139,7 @@ id,name,state_id
 15547,Madinat Sittah Uktubar,1068
 15548,Nahya,1068
 15549,Saqqarah,1068
-15550,al-\'Ayyat,1068
+15550,al- Ayyat,1068
 15551,al-Badrashayn,1068
 15552,al-Hawamidiyah,1068
 15553,al-Jizah,1068
@@ -15147,7 +15147,7 @@ id,name,state_id
 15555,al-Wahat-al-Bahriyah,1068
 15556,as-Saff,1068
 15557,Ashmun,1069
-15558,Birkat-as-Sab\,1069
+15558,Birkat-as-Sab,1069
 15559,Milij,1069
 15560,Minuf,1069
 15561,Quwaysina,1069
@@ -15173,7 +15173,7 @@ id,name,state_id
 15581,Badr City,1071
 15582,Heliopolis,1071
 15583,al-Qahira,1071
-15584,Abu Za\'bal,1072
+15584,Abu Za bal,1072
 15585,Banha,1072
 15586,Qalyub,1072
 15587,Shubra al-Khaymah,1072
@@ -15263,17 +15263,17 @@ id,name,state_id
 15671,Beylul,1100
 15672,Edd,1100
 15673,Mersa Fatma,1100
-15674,Ak\'ordat,1101
+15674,Ak ordat,1101
 15675,Barentu,1101
 15676,Teseney,1101
 15677,Asmara,1102
 15678,Ginda,1102
 15679,Himbirti,1102
 15680,Nefasit,1102
-15681,Addi K\'eyih,1103
-15682,Dek\'emhare,1103
+15681,Addi K eyih,1103
+15682,Dek emhare,1103
 15683,Mitsiwa,1103
-15684,Sen\'afe,1103
+15684,Sen afe,1103
 15685,Aasmae,1104
 15686,Aaviku,1104
 15687,Aegviidu,1104
@@ -16290,8 +16290,8 @@ id,name,state_id
 16698,Awash,1120
 16699,Dubti,1120
 16700,Gewane,1120
-16701,Addi Ark\'ay,1121
-16702,Addis \'Alem,1121
+16701,Addi Ark ay,1121
+16702,Addis  Alem,1121
 16703,Addis Zemen,1121
 16704,Adet,1121
 16705,Bahir Dar,1121
@@ -16303,7 +16303,7 @@ id,name,state_id
 16711,Dangla,1121
 16712,Debark,1121
 16713,Debre Birhan,1121
-16714,Debre Mark\'os,1121
+16714,Debre Mark os,1121
 16715,Debre Sina,1121
 16716,Debre Tabor,1121
 16717,Debre Werk,1121
@@ -16311,13 +16311,13 @@ id,name,state_id
 16719,Dese,1121
 16720,Finote Selam,1121
 16721,Gondar,1121
-16722,K\'obo,1121
+16722,K obo,1121
 16723,Kembolcha,1121
 16724,Kemise,1121
 16725,Lalibela,1121
-16726,Mott\'a,1121
+16726,Mott a,1121
 16727,Nefas Mewcha,1121
-16728,Sek\'ot\'a,1121
+16728,Sek ot a,1121
 16729,Shewa Robit,1121
 16730,Weldiya,1121
 16731,Were Ilu,1121
@@ -16327,7 +16327,7 @@ id,name,state_id
 16735,Gambela,1124
 16736,Harer,1125
 16737,Jigjiga,1126
-16738,\'Alem Maya,1128
+16738,Alem Maya,1128
 16739,Abomsa,1128
 16740,Agaro,1128
 16741,Asasa,1128
@@ -16346,7 +16346,7 @@ id,name,state_id
 16754,Gedo,1128
 16755,Gelemso,1128
 16756,Gimbi,1128
-16757,Ginch\'i,1128
+16757,Ginch i,1128
 16758,Ginir,1128
 16759,Giyon,1128
 16760,Goba,1128
@@ -16361,7 +16361,7 @@ id,name,state_id
 16769,Kibre Mengist,1128
 16770,Kofele,1128
 16771,Mega,1128
-16772,Mek\'i,1128
+16772,Mek i,1128
 16773,Mendi,1128
 16774,Metehara,1128
 16775,Metu,1128
@@ -16370,7 +16370,7 @@ id,name,state_id
 16778,Nazret,1128
 16779,Nedjo,1128
 16780,Negele,1128
-16781,Nek\'emte,1128
+16781,Nek emte,1128
 16782,Robe,1128
 16783,Sebeta,1128
 16784,Sendafa,1128
@@ -16380,8 +16380,8 @@ id,name,state_id
 16788,Sheh Hussen,1128
 16789,Sire,1128
 16790,Tulu Bolo,1128
-16791,Welench\'iti,1128
-16792,Welk\'it\'e,1128
+16791,Welench iti,1128
+16792,Welk it e,1128
 16793,Wonji,1128
 16794,Yabelo,1128
 16795,Ziway,1128
@@ -16399,10 +16399,10 @@ id,name,state_id
 16807,Boditi,1130
 16808,Bonga,1130
 16809,Butajira,1130
-16810,Ch\'ench\'a,1130
+16810,Ch ench a,1130
 16811,Dilla,1130
 16812,Gidole,1130
-16813,Hossa\'ina,1130
+16813,Hossa ina,1130
 16814,Jinka,1130
 16815,Leku,1130
 16816,Mizan Teferi,1130
@@ -16411,20 +16411,20 @@ id,name,state_id
 16819,Teppi,1130
 16820,Wendo,1130
 16821,Yirga Alem,1130
-16822,Yirga Ch\'efe,1130
+16822,Yirga Ch efe,1130
 16823,Abiy Adi,1131
 16824,Addigrat,1131
 16825,Adwa,1131
 16826,Aksum,1131
-16827,Alamat\'a,1131
+16827,Alamat a,1131
 16828,Endasilasie,1131
 16829,Hagere Selam,1131
 16830,Himora,1131
 16831,Korem,1131
-16832,Maych\'ew,1131
-16833,Mek\'ele,1131
+16832,Maych ew,1131
+16833,Mek ele,1131
 16834,Mekele,1131
-16835,Wik\'ro,1131
+16835,Wik ro,1131
 16836,Hvannasund,1137
 16837,Klaksvik,1137
 16838,Husavik,1140
@@ -16748,7 +16748,7 @@ id,name,state_id
 17156,Allauch,1199
 17157,Arles,1199
 17158,Aubagne,1199
-17159,Berre-l\'Etang,1199
+17159,Berre-l Etang,1199
 17160,Bouc-Bel-Air,1199
 17161,Chateauneuf-les-Martigues,1199
 17162,Chateaurenard,1199
@@ -16947,7 +16947,7 @@ id,name,state_id
 17355,Pessac,1229
 17356,Saint-Medard-en-Jalles,1229
 17357,Talence,1229
-17358,Villenave-d\'Ornon,1229
+17358,Villenave-d Ornon,1229
 17359,Cernay,1230
 17360,Colmar,1230
 17361,Guebwiller,1230
@@ -16964,7 +16964,7 @@ id,name,state_id
 17372,Blagnac,1232
 17373,Colomiers,1232
 17374,Cugnaux,1232
-17375,L\'Union,1232
+17375,L Union,1232
 17376,Muret,1232
 17377,Plaisance-du-Touch,1232
 17378,Ramonville-Saint-Agne,1232
@@ -17034,7 +17034,7 @@ id,name,state_id
 17442,Sevres,1240
 17443,Suresnes,1240
 17444,Vanves,1240
-17445,Ville-d\'Avray,1240
+17445,Ville-d Avray,1240
 17446,Villeneuve-la-Garenne,1240
 17447,Agde,1241
 17448,Beziers,1241
@@ -17074,7 +17074,7 @@ id,name,state_id
 17482,Le Pont-de-Claix,1246
 17483,Meylan,1246
 17484,Saint-Egreve,1246
-17485,Saint-Martin-d\'Heres,1246
+17485,Saint-Martin-d Heres,1246
 17486,Seyssinet-Pariset,1246
 17487,Vienne,1246
 17488,Villefontaine,1246
@@ -17092,7 +17092,7 @@ id,name,state_id
 17500,Saint-Paul-les-Dax,1249
 17501,Tarnos,1249
 17502,Codolet,1250
-17503,Cuxac-d\'Aude,1250
+17503,Cuxac-d Aude,1250
 17504,Gigean,1250
 17505,Grabels,1250
 17506,Lamalou-les-Bains,1250
@@ -17156,7 +17156,7 @@ id,name,state_id
 17564,Avrille,1264
 17565,Cholet,1264
 17566,Les Ponts-de-Ce,1264
-17567,Saint-Barthelemy-d\'Anjou,1264
+17567,Saint-Barthelemy-d Anjou,1264
 17568,Saumur,1264
 17569,Torfou,1264
 17570,Trelaze,1264
@@ -17237,12 +17237,12 @@ id,name,state_id
 17645,Aulnoye-Aymeries,1274
 17646,Bailleul,1274
 17647,Bondues,1274
-17648,Bruay-sur-l\'Escaut,1274
+17648,Bruay-sur-l Escaut,1274
 17649,Cambrai,1274
 17650,Cappelle-la-Grande,1274
 17651,Caudry,1274
 17652,Comines,1274
-17653,Conde-sur-l\'Escaut,1274
+17653,Conde-sur-l Escaut,1274
 17654,Coudekerque-Branche,1274
 17655,Croix,1274
 17656,Denain,1274
@@ -17292,7 +17292,7 @@ id,name,state_id
 17700,Tourcoing,1274
 17701,Valenciennes,1274
 17702,Vieux-Conde,1274
-17703,Villeneuve-d\'Ascq,1274
+17703,Villeneuve-d Ascq,1274
 17704,Wasquehal,1274
 17705,Wattignies,1274
 17706,Wattrelos,1274
@@ -17314,7 +17314,7 @@ id,name,state_id
 17722,Alencon,1277
 17723,Argentan,1277
 17724,Flers,1277
-17725,L\'Aigle,1277
+17725,L Aigle,1277
 17726,Paris,1278
 17727,Aire-sur-la-Lys,1279
 17728,Arras,1279
@@ -17352,7 +17352,7 @@ id,name,state_id
 17760,Marolles-les-Braults,1281
 17761,Mortagne-sur-Sevre,1281
 17762,Mouzillon,1281
-17763,Noirmoutier-en-l\'ÃƒÂŽle,1281
+17763,Noirmoutier-en-l ÃƒÂŽle,1281
 17764,Friville,1282
 17765,Liancourt,1282
 17766,Maizy,1282
@@ -17363,7 +17363,7 @@ id,name,state_id
 17771,Beaumont,1283
 17772,Chamalieres,1283
 17773,Clermont-Ferrand,1283
-17774,Cournon-d\'Auvergne,1283
+17774,Cournon-d Auvergne,1283
 17775,Gerzat,1283
 17776,Issoire,1283
 17777,Riom,1283
@@ -17409,7 +17409,7 @@ id,name,state_id
 17817,Beauvoir-en-Royans,1288
 17818,Belley,1288
 17819,Bons-en-Chablais,1288
-17820,Chalain-d\'Uzore,1288
+17820,Chalain-d Uzore,1288
 17821,Chassieu,1288
 17822,Chavanod,1288
 17823,Chazay-d-Azergues,1288
@@ -17468,7 +17468,7 @@ id,name,state_id
 17876,Dieppe,1294
 17877,Elbeuf,1294
 17878,Fecamp,1294
-17879,Gonfreville-l\'Orcher,1294
+17879,Gonfreville-l Orcher,1294
 17880,Grand-Couronne,1294
 17881,Harfleur,1294
 17882,Le Grand-Quevilly,1294
@@ -17582,7 +17582,7 @@ id,name,state_id
 17990,Goussainville,1305
 17991,Herblay,1305
 17992,Jouy-le-Moutier,1305
-17993,L\'Isle-Adam,1305
+17993,L Isle-Adam,1305
 17994,Montigny-les-Cormeilles,1305
 17995,Montmagny,1305
 17996,Montmorency,1305
@@ -17592,7 +17592,7 @@ id,name,state_id
 18000,Saint-Brice-sous-Foret,1305
 18001,Saint-Gratien,1305
 18002,Saint-Leu-la-Foret,1305
-18003,Saint-Ouen-l\'Aumone,1305
+18003,Saint-Ouen-l Aumone,1305
 18004,Sannois,1305
 18005,Sarcelles,1305
 18006,Soisy-sous-Montmorency,1305
@@ -17616,7 +17616,7 @@ id,name,state_id
 18024,Gentilly,1306
 18025,Ivry-sur-Seine,1306
 18026,Joinville-le-Pont,1306
-18027,L\'Hay-les-Roses,1306
+18027,L Hay-les-Roses,1306
 18028,La Queue-en-Brie,1306
 18029,Le Kremlin-Bicetre,1306
 18030,Le Perreux-sur-Marne,1306
@@ -17661,7 +17661,7 @@ id,name,state_id
 18069,Bollene,1308
 18070,Carpentras,1308
 18071,Cavaillon,1308
-18072,L\'Isle-sur-la-Sorgue,1308
+18072,L Isle-sur-la-Sorgue,1308
 18073,Le Pontet,1308
 18074,Orange,1308
 18075,Pertuis,1308
@@ -17669,12 +17669,12 @@ id,name,state_id
 18077,Valreas,1308
 18078,Vellise,1309
 18079,Challans,1310
-18080,Chateau-d\'Olonne,1310
+18080,Chateau-d Olonne,1310
 18081,Fontenay-le-Comte,1310
 18082,La Chasnis,1310
 18083,La Roche-sur-Yon,1310
 18084,Les Herbiers,1310
-18085,Les Sables-d\'Olonne,1310
+18085,Les Sables-d Olonne,1310
 18086,Longeville-sur-Mer,1310
 18087,Chatellerault,1311
 18088,Poitiers,1311
@@ -17689,7 +17689,7 @@ id,name,state_id
 18097,Acheres,1314
 18098,Andresy,1314
 18099,Aubergenville,1314
-18100,Bois-d\'Arcy,1314
+18100,Bois-d Arcy,1314
 18101,Carrieres-sous-Poissy,1314
 18102,Carrieres-sur-Seine,1314
 18103,Chanteloup-les-Vignes,1314
@@ -17717,7 +17717,7 @@ id,name,state_id
 18125,Plaisir,1314
 18126,Poissy,1314
 18127,Rambouillet,1314
-18128,Saint-Cyr-l\'Ecole,1314
+18128,Saint-Cyr-l Ecole,1314
 18129,Saint-Germain-en-Laye,1314
 18130,Sartrouville,1314
 18131,Trappes,1314
@@ -20292,7 +20292,7 @@ id,name,state_id
 20700,Le Gosier,1501
 20701,Le Moule,1501
 20702,Les Abymes,1501
-20703,Morne-a-l\'Eau,1501
+20703,Morne-a-l Eau,1501
 20704,Petit-Canal,1501
 20705,Point-a-Pitre,1501
 20706,Port-Louis,1501
@@ -20357,7 +20357,7 @@ id,name,state_id
 20765,Mazatenango,1542
 20766,Totonicapan,1543
 20767,Zacapa,1544
-20768,Saint Anne\'s,1545
+20768,Saint Anne s,1545
 20769,Castle,1546
 20770,Forest,1547
 20771,Sark,1554
@@ -20430,14 +20430,14 @@ id,name,state_id
 20838,Dessalines,1607
 20839,Gonaives,1607
 20840,Gros-Morne,1607
-20841,L\'Artibonite,1607
+20841,L Artibonite,1607
 20842,Saint-Marc,1607
-20843,Saint-Michel-de-l\'Atalaye,1607
+20843,Saint-Michel-de-l Atalaye,1607
 20844,Saint-Raphael,1607
 20845,Verrettes,1607
 20846,Hinche,1608
 20847,Mirebalais,1608
-20848,Anse-d\'Hainault,1609
+20848,Anse-d Hainault,1609
 20849,Dame Marie,1609
 20850,Jeremie,1609
 20851,Miragoane,1609
@@ -21172,7 +21172,7 @@ id,name,state_id
 21580,Khonsar,1705
 21581,Khuresgan,1705
 21582,Mobarakeh,1705
-21583,Na\'in,1705
+21583,Na in,1705
 21584,Najafabad,1705
 21585,Natnaz,1705
 21586,Qahdarijan,1705
@@ -21195,7 +21195,7 @@ id,name,state_id
 21603,Marv Dasht,1706
 21604,Neyriz,1706
 21605,Nurabad,1706
-21606,Qa\'emiyeh,1706
+21606,Qa emiyeh,1706
 21607,Sepidan,1706
 21608,Shiraz,1706
 21609,Astaneh-ye Ashrafiyeh,1707
@@ -21208,8 +21208,8 @@ id,name,state_id
 21616,Rasht,1707
 21617,Rudbar,1707
 21618,Rudsar,1707
-21619,Sawma\'eh Sara,1707
-21620,Aq Qal\'eh,1708
+21619,Sawma eh Sara,1707
+21620,Aq Qal eh,1708
 21621,Azad Shahr,1708
 21622,Bandar-e Torkaman,1708
 21623,Gonbad-e Qabus,1708
@@ -21221,7 +21221,7 @@ id,name,state_id
 21629,Nahavand,1709
 21630,Tuysarkan,1709
 21631,Bandar Abbas,1710
-21632,Bandar-e \'Abbas,1710
+21632,Bandar-e  Abbas,1710
 21633,Bandar-e Lengeh,1710
 21634,Gheshm,1710
 21635,Jask,1710
@@ -21262,7 +21262,7 @@ id,name,state_id
 21670,Esfarayen,1714
 21671,Fariman,1714
 21672,Ferdus,1714
-21673,Gha\'nat,1714
+21673,Gha nat,1714
 21674,Gonabad,1714
 21675,Kashmar,1714
 21676,Mashad,1714
@@ -21336,7 +21336,7 @@ id,name,state_id
 21744,Neka,1720
 21745,Nur,1720
 21746,Nushahr,1720
-21747,Qa\'emshahr,1720
+21747,Qa emshahr,1720
 21748,Ramsar,1720
 21749,Sari,1720
 21750,Savadkuh,1720
@@ -21385,9 +21385,9 @@ id,name,state_id
 21793,Baghdad,1730
 21794,Dahuk,1731
 21795,Zakhu,1731
-21796,Ba\'qubah,1733
+21796,Ba qubah,1733
 21797,Hanaqin,1733
-21798,Jalula\'\,1733
+21798,Jalula ,1733
 21799,Kifri,1733
 21800,Mandali,1733
 21801,al-Fuhud,1733
@@ -21401,28 +21401,28 @@ id,name,state_id
 21809,Karbala,1736
 21810,al-Hindiyah,1736
 21811,Erbil,1737
-21812,\'Ali al Gharbi,1738
-21813,al-\'Amarah,1738
+21812,Ali al Gharbi,1738
+21813,al- Amarah,1738
 21814,al-Majarr-al-Kabir,1738
 21815,Qarah Qush,1739
 21816,Sinjar,1739
-21817,Tall \'Afar,1739
+21817,Tall  Afar,1739
 21818,Tall Kayf,1739
 21819,al-Mawsil,1739
 21820,ash-Shaykhan,1739
 21821,Balad,1740
 21822,Bayji,1740
-21823,Dhalu\'iyah,1740
+21823,Dhalu iyah,1740
 21824,Samarra,1740
 21825,Tikrit,1740
 21826,Tuz,1740
 21827,ad-Dujayl,1740
-21828,al-\'Aziziyah,1741
+21828,al- Aziziyah,1741
 21829,al-Hayy,1741
 21830,al-Kut,1741
-21831,an-Nu\'maniyah,1741
+21831,an-Nu maniyah,1741
 21832,as-Suwayrah,1741
-21833,\'Anah,1742
+21833,Anah,1742
 21834,Hit,1742
 21835,Rawah,1742
 21836,al-Fallujah,1742
@@ -21432,14 +21432,14 @@ id,name,state_id
 21840,ar-Rutbah,1742
 21841,Abu al-Khasib,1743
 21842,Harithah,1743
-21843,Shatt-al-\'Arab,1743
+21843,Shatt-al- Arab,1743
 21844,al-Basrah,1743
 21845,al-Faw,1743
 21846,al-Qurnah,1743
 21847,az-Zubayr,1743
 21848,ar-Rumaythah,1744
 21849,as-Samawah,1744
-21850,\'Afak,1745
+21850,Afak,1745
 21851,ad-Diwaniyah,1745
 21852,al-Ghammas,1745
 21853,al-Hamzah,1745
@@ -21452,9 +21452,9 @@ id,name,state_id
 21860,Halabjah,1747
 21861,Kusanjaq,1747
 21862,Panjwin,1747
-21863,Qal\'at Dizeh,1747
+21863,Qal at Dizeh,1747
 21864,as-Sulaymaniyah,1747
-21865,\'Aqrah,1748
+21865,Aqrah,1748
 21866,Kirkuk,1748
 21867,Moira,1749
 21868,Bagenalstown,1750
@@ -21615,11 +21615,11 @@ id,name,state_id
 22023,Petach Tikva,1784
 22024,Ramallah,1784
 22025,Gaza,1785
-22026,\'Arad,1786
-22027,\'Omer,1786
+22026,Arad,1786
+22027,Omer,1786
 22028,Ashdod,1786
 22029,Ashqelon,1786
-22030,Be\'er Sheva,1786
+22030,Be er Sheva,1786
 22031,Beersheba,1786
 22032,Bene Ayish,1786
 22033,Dimona,1786
@@ -21629,11 +21629,11 @@ id,name,state_id
 22037,Netivot,1786
 22038,Ofaqim,1786
 22039,Qiryat Gat,1786
-22040,Qiryat Mal\'akhi,1786
+22040,Qiryat Mal akhi,1786
 22041,Sederot,1786
 22042,Yeroham,1786
 22043,kiryat Malachi,1786
-22044,Be\'er Ya\'aqov,1788
+22044,Be er Ya aqov,1788
 22045,Beit Shemesh,1788
 22046,Bene Beraq,1788
 22047,Bnei Brak,1788
@@ -21654,7 +21654,7 @@ id,name,state_id
 22062,Kiryag Bialik,1788
 22063,Lod,1788
 22064,Mazkeret Batya,1788
-22065,Modi\'in,1788
+22065,Modi in,1788
 22066,Nes Ziyyona,1788
 22067,Ness Ziona,1788
 22068,Netanya,1788
@@ -21663,8 +21663,8 @@ id,name,state_id
 22071,Petakh Tiqwa,1788
 22072,Qadima,1788
 22073,Qalansawe,1788
-22074,Qiryat \'Eqron,1788
-22075,Ra\'anana,1788
+22074,Qiryat  Eqron,1788
+22075,Ra anana,1788
 22076,Ramla,1788
 22077,Rehovot,1788
 22078,Rekhovot,1788
@@ -21678,23 +21678,23 @@ id,name,state_id
 22086,Udim,1788
 22087,Yavne,1788
 22088,Yehud,1788
-22089,\'Afula,1789
-22090,\'Akko,1789
-22091,\'Arrabe,1789
-22092,\'Ein Mahel,1789
-22093,\'Ilut,1789
+22089,Afula,1789
+22090,Akko,1789
+22091,Arrabe,1789
+22092,Ein Mahel,1789
+22093,Ilut,1789
 22094,Abu Sinan,1789
-22095,Basmat Tab\'un,1789
+22095,Basmat Tab un,1789
 22096,Beit Jann,1789
-22097,Bet She\'an,1789
-22098,Bi\'ne,1789
+22097,Bet She an,1789
+22098,Bi ne,1789
 22099,Bir-al-Maksur,1789
-22100,Bu\'eine-Nujeidat,1789
+22100,Bu eine-Nujeidat,1789
 22101,Dabburye,1789
 22102,Dayr Hannah,1789
 22103,Dayr-al-Asad,1789
 22104,Hazor HaGelilit,1789
-22105,I\'billin,1789
+22105,I billin,1789
 22106,Iksal,1789
 22107,Judeide-Maker,1789
 22108,Kabul,1789
@@ -21703,32 +21703,32 @@ id,name,state_id
 22111,Kafar Yasif,1789
 22112,Karmiel,1789
 22113,Kisra-Sumei,1789
-22114,Ma\'alot Tarshikha,1789
+22114,Ma alot Tarshikha,1789
 22115,Majd-al-Kurum,1789
-22116,Migdal Ha\'Emeq,1789
+22116,Migdal Ha Emeq,1789
 22117,Mugar,1789
 22118,Nahariyya,1789
 22119,Nahef,1789
 22120,Nazerat,1789
-22121,Nazerat \'Illit,1789
+22121,Nazerat  Illit,1789
 22122,Qiryat Shemona,1789
-22123,Qiryat Tiv\'on,1789
+22123,Qiryat Tiv on,1789
 22124,Rame,1789
 22125,Reine,1789
 22126,Sakhnin,1789
-22127,Shefar\'am,1789
+22127,Shefar am,1789
 22128,Tamra,1789
 22129,Tiberias,1789
-22130,Tur\'an,1789
+22130,Tur an,1789
 22131,Yirka,1789
-22132,Yoqne\'am Illit,1789
+22132,Yoqne am Illit,1789
 22133,Zefat,1789
 22134,Zur Yigal,1789
 22135,Hebron,1790
 22136,Sgula,1791
 22137,Jerusalem,1792
-22138,\'Ar\'ara,1793
-22139,\'Isifya,1793
+22138,Ar ara,1793
+22139,Isifya,1793
 22140,Baqa al-Gharbiyyah,1793
 22141,Binyamina,1793
 22142,Daliyat-al-Karmil,1793
@@ -21736,7 +21736,7 @@ id,name,state_id
 22144,Khadera,1793
 22145,Khefa,1793
 22146,Nesher,1793
-22147,Or \'Aqiva,1793
+22147,Or  Aqiva,1793
 22148,Pardes Khanna-Karkur,1793
 22149,Qiryat Atta,1793
 22150,Qiryat Bialik,1793
@@ -21745,7 +21745,7 @@ id,name,state_id
 22153,Rekhasim,1793
 22154,Tirat Karmel,1793
 22155,Umm-al-Fahm,1793
-22156,Zikhron Ya\'aqov,1793
+22156,Zikhron Ya aqov,1793
 22157,Qalqilya,1796
 22158,Hadera,1799
 22159,Kiryag Bialik,1799
@@ -21761,16 +21761,16 @@ id,name,state_id
 22169,Celano,1803
 22170,Cepagatti,1803
 22171,Chieti,1803
-22172,Citta Sant\'Angelo,1803
+22172,Citta Sant Angelo,1803
 22173,Francavilla al Mare,1803
 22174,Giulianova,1803
 22175,Guardiagrele,1803
-22176,L\'Aquila,1803
+22176,L Aquila,1803
 22177,Lanciano,1803
 22178,Martinsicuro,1803
 22179,Montesilvano,1803
 22180,Montorio al Vomano,1803
-22181,Mosciano Sant\'Angelo,1803
+22181,Mosciano Sant Angelo,1803
 22182,Ortona,1803
 22183,Penne,1803
 22184,Pescara,1803
@@ -21778,7 +21778,7 @@ id,name,state_id
 22186,Roseto degli Abruzzi,1803
 22187,San Giovanni Teatino,1803
 22188,San Salvo,1803
-22189,Sant\'Egidio alla Vibrata,1803
+22189,Sant Egidio alla Vibrata,1803
 22190,Silvi,1803
 22191,Spoltore,1803
 22192,Sulmona,1803
@@ -21835,7 +21835,7 @@ id,name,state_id
 22243,Capolona,1807
 22244,Montevarchi,1807
 22245,Subbiano,1807
-22246,Buttigliera d\'Asti,1809
+22246,Buttigliera d Asti,1809
 22247,Flumeri,1810
 22248,Nusco,1810
 22249,Prata di Principato Ultra,1810
@@ -21854,7 +21854,7 @@ id,name,state_id
 22262,Rionero in Vulture,1812
 22263,Venosa,1812
 22264,Belluno,1813
-22265,D\'alpago,1813
+22265,D alpago,1813
 22266,Longarone,1813
 22267,Pedavena,1813
 22268,San Bartolomeo,1814
@@ -21863,7 +21863,7 @@ id,name,state_id
 22271,Bergamo,1815
 22272,Bolgare,1815
 22273,Bottanuco,1815
-22274,Brignano Gera d\'Adda,1815
+22274,Brignano Gera d Adda,1815
 22275,Calcio,1815
 22276,Caravaggio,1815
 22277,Chiuduno,1815
@@ -21891,7 +21891,7 @@ id,name,state_id
 22299,Gaglianico,1816
 22300,Sandigliano,1816
 22301,Vigliano Biellese,1816
-22302,Anzola dell\'Emilia,1817
+22302,Anzola dell Emilia,1817
 22303,Bologna,1817
 22304,Borgo Tossignano,1817
 22305,Casalfiumanese,1817
@@ -21984,7 +21984,7 @@ id,name,state_id
 22392,Avellino,1822
 22393,Aversa,1822
 22394,Bacoli,1822
-22395,Barano d\'Ischia,1822
+22395,Barano d Ischia,1822
 22396,Baronissi,1822
 22397,Battipaglia,1822
 22398,Bellizzi,1822
@@ -22010,7 +22010,7 @@ id,name,state_id
 22418,Castel San Giorgio,1822
 22419,Castel Volturno,1822
 22420,Castellammare di Stabia,1822
-22421,Cava de\' Tirreni,1822
+22421,Cava de  Tirreni,1822
 22422,Cercola,1822
 22423,Cervinara,1822
 22424,Cicciano,1822
@@ -22063,7 +22063,7 @@ id,name,state_id
 22471,Piedimonte Matese,1822
 22472,Poggiomarino,1822
 22473,Pollena Trocchia,1822
-22474,Pomigliano d\'Arco,1822
+22474,Pomigliano d Arco,1822
 22475,Pompei,1822
 22476,Pontecagnano,1822
 22477,Portici,1822
@@ -22075,7 +22075,7 @@ id,name,state_id
 22483,Roccapiemonte,1822
 22484,Sala Consilina,1822
 22485,Salerno,1822
-22486,San Cipriano d\'Aversa,1822
+22486,San Cipriano d Aversa,1822
 22487,San Felice a Cancello,1822
 22488,San Gennaro Vesuviano,1822
 22489,San Giorgio a Cremano,1822
@@ -22088,12 +22088,12 @@ id,name,state_id
 22496,San Sebastiano al Vesuvio,1822
 22497,San Valentino Torio,1822
 22498,Sant Antimo,1822
-22499,Sant\'Agata de\' Goti,1822
-22500,Sant\'Agnello,1822
-22501,Sant\'Anastasia,1822
-22502,Sant\'Antonio Abate,1822
-22503,Sant\'Arpino,1822
-22504,Sant\'Egidio del Monte Albino,1822
+22499,Sant Agata de  Goti,1822
+22500,Sant Agnello,1822
+22501,Sant Anastasia,1822
+22502,Sant Antonio Abate,1822
+22503,Sant Arpino,1822
+22504,Sant Egidio del Monte Albino,1822
 22505,Santa Maria Capua Vetere,1822
 22506,Santa Maria a Vico,1822
 22507,Santa Maria la Carita,1822
@@ -22258,7 +22258,7 @@ id,name,state_id
 22666,Magliano Alpi,1830
 22667,Mondovi,1830
 22668,Roddi,1830
-22669,Santa Vittoria d\'Alba,1830
+22669,Santa Vittoria d Alba,1830
 22670,Verduno,1830
 22671,Alfonsine,1831
 22672,Argelato,1831
@@ -22280,7 +22280,7 @@ id,name,state_id
 22688,Castel San Pietro Terme,1831
 22689,Castelfranco Emilia,1831
 22690,Castellarano,1831
-22691,Castelnovo ne\' Monti,1831
+22691,Castelnovo ne  Monti,1831
 22692,Castelnuovo Rangone,1831
 22693,Castelvetro di Modena,1831
 22694,Castenaso,1831
@@ -22305,12 +22305,12 @@ id,name,state_id
 22713,Fidenza,1831
 22714,Finale Emilia,1831
 22715,Fiorano Modenese,1831
-22716,Fiorenzuola d\'Arda,1831
+22716,Fiorenzuola d Arda,1831
 22717,Forli,1831
 22718,Forlimpopoli,1831
 22719,Formigine,1831
 22720,Gambettola,1831
-22721,Granarolo dell\'Emilia,1831
+22721,Granarolo dell Emilia,1831
 22722,Guastalla,1831
 22723,Imola,1831
 22724,Langhirano,1831
@@ -22332,7 +22332,7 @@ id,name,state_id
 22740,Nonantola,1831
 22741,Novellara,1831
 22742,Novi di Modena,1831
-22743,Ozzano dell\'Emilia,1831
+22743,Ozzano dell Emilia,1831
 22744,Parma,1831
 22745,Pavullo nel Frignano,1831
 22746,Piacenza,1831
@@ -22341,7 +22341,7 @@ id,name,state_id
 22749,Portomaggiore,1831
 22750,Quattro Castella,1831
 22751,Ravenna,1831
-22752,Reggio nell\'Emilia,1831
+22752,Reggio nell Emilia,1831
 22753,Reggiolo,1831
 22754,Riccione,1831
 22755,Rimini,1831
@@ -22354,7 +22354,7 @@ id,name,state_id
 22762,San Lazzaro di Savena,1831
 22763,San Mauro Pascoli,1831
 22764,San Pietro in Casale,1831
-22765,Sant\'Ilario d\'Enza,1831
+22765,Sant Ilario d Enza,1831
 22766,Santarcangelo di Romagna,1831
 22767,Sasso Marconi,1831
 22768,Sassuolo,1831
@@ -22380,8 +22380,8 @@ id,name,state_id
 22788,Sgurgola,1837
 22789,Genoa,1838
 22790,Moneglia,1838
-22791,Romans d\'Isonzo,1839
-22792,Savogna d\'Isonzo,1839
+22791,Romans d Isonzo,1839
+22792,Savogna d Isonzo,1839
 22793,Magliano de Marsi,1840
 22794,Alatri,1841
 22795,Albano Laziale,1841
@@ -22538,7 +22538,7 @@ id,name,state_id
 22952,Cairate,1847
 22953,Calcinato,1847
 22954,Calolziocorte,1847
-22955,Calusco d\'Adda,1847
+22955,Calusco d Adda,1847
 22956,Canegrate,1847
 22957,Cantu,1847
 22958,Capriolo,1847
@@ -22555,8 +22555,8 @@ id,name,state_id
 22969,Casazza,1847
 22970,Casnigo,1847
 22971,Cassano Magnago,1847
-22972,Cassano d\'Adda,1847
-22973,Cassina de\' Pecchi,1847
+22972,Cassano d Adda,1847
+22973,Cassina de  Pecchi,1847
 22974,Castano Primo,1847
 22975,Castel Goffredo,1847
 22976,Castel Mella,1847
@@ -22587,7 +22587,7 @@ id,name,state_id
 23001,Corbetta,1847
 23002,Cormano,1847
 23003,Cornaredo,1847
-23004,Cornate d\'Adda,1847
+23004,Cornate d Adda,1847
 23005,Corsico,1847
 23006,Corte dei Cortesi,1847
 23007,Costa Volpino,1847
@@ -22676,7 +22676,7 @@ id,name,state_id
 23090,Osio Sotto,1847
 23091,Ospitaletto,1847
 23092,Paderno Dugnano,1847
-23093,Palazzolo sull\'Oglio,1847
+23093,Palazzolo sull Oglio,1847
 23094,Pandino,1847
 23095,Parabiago,1847
 23096,Paullo,1847
@@ -22703,7 +22703,7 @@ id,name,state_id
 23117,Samarate,1847
 23118,San Donato Milanese,1847
 23119,San Giuliano Milanese,1847
-23120,Sant\'Angelo Lodigiano,1847
+23120,Sant Angelo Lodigiano,1847
 23121,Sarezzo,1847
 23122,Saronno,1847
 23123,Scanzorosciate,1847
@@ -22763,7 +22763,7 @@ id,name,state_id
 23177,Nibionno,1848
 23178,Rodano,1848
 23179,Sordio,1848
-23180,Torre d\'Isola,1848
+23180,Torre d Isola,1848
 23181,Varese,1848
 23182,Villongo,1848
 23183,milan,1848
@@ -22813,12 +22813,12 @@ id,name,state_id
 23227,Polverigi,1851
 23228,Porto Recanati,1851
 23229,Porto San Giorgio,1851
-23230,Porto Sant\'Elpidio,1851
+23230,Porto Sant Elpidio,1851
 23231,Potenza Picena,1851
 23232,Recanati,1851
 23233,San Benedetto del Tronto,1851
 23234,San Severino Marche,1851
-23235,Sant\'Elpidio a Mare,1851
+23235,Sant Elpidio a Mare,1851
 23236,Senigallia,1851
 23237,Tolentino,1851
 23238,Treia,1851
@@ -22846,9 +22846,9 @@ id,name,state_id
 23260,Pregnana Milane,1853
 23261,San Donato Milanese,1853
 23262,Seregno,1853
-23263,Trezzo Sull\'adda,1853
+23263,Trezzo Sull adda,1853
 23264,Tribiano,1853
-23265,Vaprio d\'Adda,1853
+23265,Vaprio d Adda,1853
 23266,Vermezzo,1853
 23267,Bomporto,1854
 23268,Campogalliano,1854
@@ -22865,7 +22865,7 @@ id,name,state_id
 23279,Termoli,1855
 23280,Venafro,1855
 23281,Montenegro,1857
-23282,Forio d\'Ischia,1859
+23282,Forio d Ischia,1859
 23283,Bogogno,1860
 23284,Invorio,1860
 23285,Pombia,1860
@@ -23070,7 +23070,7 @@ id,name,state_id
 23484,Mola di Bari,1872
 23485,Molfetta,1872
 23486,Monopoli,1872
-23487,Monte Sant\'Angelo,1872
+23487,Monte Sant Angelo,1872
 23488,Monteroni di Lecce,1872
 23489,Mottola,1872
 23490,Nardo,1872
@@ -23154,11 +23154,11 @@ id,name,state_id
 23569,Oristano,1877
 23570,Ozieri,1877
 23571,Porto Torres,1877
-23572,Quartu Sant\'Elena,1877
+23572,Quartu Sant Elena,1877
 23573,Quartucciu,1877
 23574,San Gavino Monreale,1877
 23575,Sanluri,1877
-23576,Sant\'Antioco,1877
+23576,Sant Antioco,1877
 23577,Sassari,1877
 23578,Selargius,1877
 23579,Serramanna,1877
@@ -23174,7 +23174,7 @@ id,name,state_id
 23589,Altare,1879
 23590,Aci Castello,1880
 23591,Aci Catena,1880
-23592,Aci Sant\'Antonio,1880
+23592,Aci Sant Antonio,1880
 23593,Acireale,1880
 23594,Adrano,1880
 23595,Agira,1880
@@ -23198,7 +23198,7 @@ id,name,state_id
 23613,Campobello di Mazara,1880
 23614,Canicatti,1880
 23615,Capaci,1880
-23616,Capo d\'Orlando,1880
+23616,Capo d Orlando,1880
 23617,Carini,1880
 23618,Carlentini,1880
 23619,Castelbuono,1880
@@ -23244,7 +23244,7 @@ id,name,state_id
 23659,Misterbianco,1880
 23660,Modica,1880
 23661,Monreale,1880
-23662,Motta Sant\'Anastasia,1880
+23662,Motta Sant Anastasia,1880
 23663,Mussomeli,1880
 23664,Naro,1880
 23665,Nicosia,1880
@@ -23281,8 +23281,8 @@ id,name,state_id
 23696,San Giovanni la Punta,1880
 23697,San Giuseppe Jato,1880
 23698,San Gregorio di Catania,1880
-23699,Sant\'Agata di Militello,1880
-23700,Sant\'Agata li Battiati,1880
+23699,Sant Agata di Militello,1880
+23700,Sant Agata li Battiati,1880
 23701,Santa Croce Camerina,1880
 23702,Santa Flavia,1880
 23703,Santa Teresa di Riva,1880
@@ -23364,7 +23364,7 @@ id,name,state_id
 23779,Chiesina Uzzanese,1887
 23780,Chiusi,1887
 23781,Civitella in Val di Chiana,1887
-23782,Colle di Val d\'Elsa,1887
+23782,Colle di Val d Elsa,1887
 23783,Collesalvetti,1887
 23784,Cortona,1887
 23785,Empoli,1887
@@ -23399,7 +23399,7 @@ id,name,state_id
 23814,Montespertoli,1887
 23815,Montevarchi,1887
 23816,Montignoso,1887
-23817,Montopoli in Val d\'Arno,1887
+23817,Montopoli in Val d Arno,1887
 23818,Orbetello,1887
 23819,Pescia,1887
 23820,Pietrasanta,1887
@@ -23426,7 +23426,7 @@ id,name,state_id
 23841,San Giuliano Terme,1887
 23842,San Miniato,1887
 23843,Sansepolcro,1887
-23844,Santa Croce sull\'Arno,1887
+23844,Santa Croce sull Arno,1887
 23845,Santa Maria a Monte,1887
 23846,Scandicci,1887
 23847,Seravezza,1887
@@ -23514,7 +23514,7 @@ id,name,state_id
 23929,Casale sul Sile,1896
 23930,Casier,1896
 23931,Cassola,1896
-23932,Castel d\'Azzano,1896
+23932,Castel d Azzano,1896
 23933,Castelfranco Veneto,1896
 23934,Castello di Godego,1896
 23935,Castelnuovo del Garda,1896
@@ -23605,7 +23605,7 @@ id,name,state_id
 24020,San Michele al Tagliamento,1896
 24021,San Pietro in Cariano,1896
 24022,San Vendemiano,1896
-24023,Sant\'Ambrogio,1896
+24023,Sant Ambrogio,1896
 24024,Santa Maria di Sala,1896
 24025,Santo Stino di Livenza,1896
 24026,Santorso,1896
@@ -24746,24 +24746,24 @@ id,name,state_id
 25161,Yamanashi,1965
 25162,Grouville,1966
 25163,Trinity,1976
-25164,\'Abbin,1977
-25165,\'Ajlun,1977
-25166,\'Anjarah,1977
-25167,\'Arjan,1977
-25168,\'Ayn Janna,1977
+25164,Abbin,1977
+25165,Ajlun,1977
+25166,Anjarah,1977
+25167,Arjan,1977
+25168,Ayn Janna,1977
 25169,Halawah,1977
 25170,Kharbat al-Wahadnah,1977
 25171,Kufranjah,1977
 25172,Sakhrah,1977
 25173,al-Hashamiyah,1977
-25174,Abu \'Alanda,1978
+25174,Abu  Alanda,1978
 25175,Amman,1978
 25176,Askan Abu Nusayr,1978
 25177,Jawa,1978
-25178,Khalda wa Tila\'-al-\'Ali,1978
+25178,Khalda wa Tila -al- Ali,1978
 25179,Khraybat As-Suq,1978
 25180,Marj al-Hammam,1978
-25181,Na\'ur,1978
+25181,Na ur,1978
 25182,Nuzhat Sahab,1978
 25183,Sahab,1978
 25184,Shafa Badran,1978
@@ -24774,7 +24774,7 @@ id,name,state_id
 25189,Umm Qusayr wal Muqabalin,1978
 25190,Umm al-Basatin,1978
 25191,Wadi as-Sir,1978
-25192,al-\'Abdaliyah,1978
+25192,al- Abdaliyah,1978
 25193,al-Binayat,1978
 25194,al-Faysaliyah,1978
 25195,al-Jizah,1978
@@ -24785,17 +24785,17 @@ id,name,state_id
 25200,ar-Rawdah,1978
 25201,at-Talbiyah,1978
 25202,at-Taybah,1978
-25203,\'Al\'al,1979
-25204,\'Anbah,1979
+25203,Al al,1979
+25204,Anbah,1979
 25205,Arhaba,1979
 25206,Aydun,1979
 25207,Bayt Idas,1979
 25208,Bayt Ras,1979
 25209,Bayt Yafa,1979
 25210,Bushra,1979
-25211,Dayr Abi Sa\'id,1979
+25211,Dayr Abi Sa id,1979
 25212,Dayr Yusif,1979
-25213,Dayr as-Sa\'anah,1979
+25213,Dayr as-Sa anah,1979
 25214,Duwaqarah,1979
 25215,Hakama,1979
 25216,Hartha,1979
@@ -24806,13 +24806,13 @@ id,name,state_id
 25221,Judayta,1979
 25222,Katam,1979
 25223,Kharja,1979
-25224,Kufur \'Awan,1979
+25224,Kufur  Awan,1979
 25225,Kufur Abil,1979
 25226,Kufur Asad,1979
 25227,Kufur Rakab,1979
 25228,Kufur Sum,1979
 25229,Kufur Yuba,1979
-25230,Kufur al-Ma\,1979
+25230,Kufur al-Ma,1979
 25231,Kuraymah,1979
 25232,Malka,1979
 25233,Mukhayyam al-Husun,1979
@@ -24820,7 +24820,7 @@ id,name,state_id
 25235,Saham,1979
 25236,Sal,1979
 25237,Samma,1979
-25238,Sammaw\,1979
+25238,Sammaw,1979
 25239,Sum,1979
 25240,Tabnah,1979
 25241,Umm Qays,1979
@@ -24832,10 +24832,10 @@ id,name,state_id
 25247,al-Buwaydah,1979
 25248,al-Husun,1979
 25249,al-Manshiyah,1979
-25250,al-Mashari\'a,1979
+25250,al-Mashari a,1979
 25251,al-Mazar ash-Shamaliyah,1979
 25252,al-Mughayyar,1979
-25253,an-Nu\'aymeh,1979
+25253,an-Nu aymeh,1979
 25254,ar-Ramtha,1979
 25255,as-Sarih,1979
 25256,ash-Shajarah,1979
@@ -24854,27 +24854,27 @@ id,name,state_id
 25269,Suf,1980
 25270,al-Kattah,1980
 25271,Bayar,1981
-25272,Ma\'an,1981
+25272,Ma an,1981
 25273,Wadi Musa,1981
 25274,al-Hussayniyah,1981
 25275,al-Jafar,1981
 25276,at-Taybah,1981
 25277,Dhiban,1982
-25278,Ma\'in,1982
+25278,Ma in,1982
 25279,Madaba,1982
 25280,Mulayh,1982
 25281,al-Faysaliyah,1982
-25282,al-\'Aqabah,1983
+25282,al- Aqabah,1983
 25283,al-Quwayrah,1983
-25284,\'Ayn al-Basha,1984
+25284,Ayn al-Basha,1984
 25285,Darar,1984
 25286,Juwafat al-Kafrayn,1984
-25287,Ma\'addi,1984
+25287,Ma addi,1984
 25288,Mahas,1984
 25289,Safut,1984
 25290,Suknat ash-Shunah,1984
 25291,Yarqa,1984
-25292,al-Baq\'ah,1984
+25292,al-Baq ah,1984
 25293,al-Fuhays,1984
 25294,al-Karamah,1984
 25295,ar-Rawdah,1984
@@ -24883,12 +24883,12 @@ id,name,state_id
 25298,as-Subayhi,1984
 25299,at-Tawal al-Janubi,1984
 25300,at-Tuwal ash-Shamali,1984
-25301,\'Ayy,1985
+25301,Ayy,1985
 25302,Adar,1985
-25303,Faqqu\,1985
-25304,Ghawr al-Mazra\'ah,1985
+25303,Faqqu,1985
+25304,Ghawr al-Mazra ah,1985
 25305,Ghawr as-Safi,1985
-25306,Maw\'tah,1985
+25306,Maw tah,1985
 25307,Sirfa,1985
 25308,al-Hussayniyah,1985
 25309,al-Karak,1985
@@ -24899,32 +24899,32 @@ id,name,state_id
 25314,ash-Shahabiyah,1985
 25315,at-Taybah,1985
 25316,Badiyat ar-Ruwayshid,1986
-25317,Bal\'ama,1986
+25317,Bal ama,1986
 25318,Manshiyat Bani Hassan,1986
 25319,Mugayyar as-Sarhan,1986
 25320,Sabha,1986
 25321,Sama as-Sarhan,1986
 25322,Umm al-Quttayn,1986
-25323,al-Hamra\,1986
+25323,al-Hamra,1986
 25324,al-Khaldiyah al-Jadidah,1986
 25325,al-Mabrukah,1986
 25326,al-Mafraq,1986
 25327,ar-Ruwayshid,1986
-25328,az-Za\'tari,1986
+25328,az-Za tari,1986
 25329,Busayrah,1987
-25330,al-\'Ayn al-Bayda,1987
+25330,al- Ayn al-Bayda,1987
 25331,al-Hasa,1987
 25332,al-Qadisiyah,1987
 25333,at-Tafilah,1987
 25334,Iskan al-Hashamiyah,1988
-25335,Mushayrfat Ras al-\'Ayn,1988
+25335,Mushayrfat Ras al- Ayn,1988
 25336,Shnillar,1988
 25337,ad-Dulayl,1988
 25338,al-Azraq ash-Shamali,1988
 25339,al-Hashamiyah,1988
 25340,ar-Russayfah,1988
 25341,as-Sukhnah,1988
-25342,az-Zarqa\,1988
+25342,az-Zarqa,1988
 25343,Akmecet,1989
 25344,Aral,1989
 25345,Baykonir,1989
@@ -25349,8 +25349,8 @@ id,name,state_id
 25764,Hawalli,2083
 25765,Massilah,2083
 25766,Mushrif,2083
-25767,Salwa\,2083
-25768,Sha\'\'ab,2083
+25767,Salwa,2083
+25768,Sha  ab,2083
 25769,Subbah-as-Salim,2083
 25770,al-Funaytis,2083
 25771,al-Funaytis-al-Garbiyah,2083
@@ -25362,13 +25362,13 @@ id,name,state_id
 25777,Qadesiya,2085
 25778,Safat,2086
 25779,Salmiya,2087
-25780,A\'qaylah,2088
+25780,A qaylah,2088
 25781,Abu Hulayfah,2088
 25782,Dahar,2088
 25783,Desert Area,2088
 25784,Hadiyah,2088
-25785,Jabbar-al-\'Ali,2088
-25786,Shu\'aybah,2088
+25785,Jabbar-al- Ali,2088
+25786,Shu aybah,2088
 25787,al-Ahmadi,2088
 25788,al-Fintas,2088
 25789,al-Fuhayhil,2088
@@ -25378,7 +25378,7 @@ id,name,state_id
 25793,ar-Riqqah,2088
 25794,as-Sabahiyah,2088
 25795,az-Zawr,2088
-25796,\'Umayriyah,2089
+25796,Umayriyah,2089
 25797,Abraq Khitan,2089
 25798,Ardiyah,2089
 25799,Fardaws,2089
@@ -25397,13 +25397,13 @@ id,name,state_id
 25812,Amgarah,2090
 25813,Desert Area,2090
 25814,Nasim,2090
-25815,Tayma\,2090
+25815,Tayma,2090
 25816,Uyawn,2090
 25817,Waha,2090
 25818,al-Jahra,2090
 25819,al-Qusayr,2090
 25820,as-Sulaybiyah,2090
-25821,\'Abullah-as-Salam,2091
+25821,Abullah-as-Salam,2091
 25822,Ardhiyah,2091
 25823,Banayd-al-Qar,2091
 25824,Health District,2091
@@ -25413,10 +25413,10 @@ id,name,state_id
 25828,Nuzha,2091
 25829,Qarnadah,2091
 25830,Shamiyah,2091
-25831,ad-Da\'iyah,2091
+25831,ad-Da iyah,2091
 25832,ad-Dasma,2091
 25833,ad-Dawhah,2091
-25834,al-\'Udayliyah,2091
+25834,al- Udayliyah,2091
 25835,al-Fayha,2091
 25836,al-Kuwayt,2091
 25837,al-Qadisiyah,2091
@@ -25611,7 +25611,7 @@ id,name,state_id
 26026,Jdeidet el Metn,2150
 26027,Jnaah,2150
 26028,Sidon,2154
-26029,Ba\'labakk,2155
+26029,Ba labakk,2155
 26030,Jubb Jannin,2155
 26031,Rashayya,2155
 26032,Riyak,2155
@@ -25619,9 +25619,9 @@ id,name,state_id
 26034,al-Hirmil,2155
 26035,Jazzin,2156
 26036,Juwayya,2156
-26037,Sayda\,2156
+26037,Sayda,2156
 26038,Sur,2156
-26039,Marj \'Uyun,2157
+26039,Marj  Uyun,2157
 26040,Nabatieh,2157
 26041,an-Nabatiyat-at-Tahta,2157
 26042,Tarabulus ash-Sham,2158
@@ -26445,7 +26445,7 @@ id,name,state_id
 26860,Amparafaravola,2278
 26861,Andevoranto,2278
 26862,Andilamena,2278
-26863,Anosibe An\'ala,2278
+26863,Anosibe An ala,2278
 26864,Fenoarivo Atsinanana,2278
 26865,Mahanoro,2278
 26866,Mananara,2278
@@ -26461,7 +26461,7 @@ id,name,state_id
 26876,Ampanihy,2279
 26877,Ankazoabo,2279
 26878,Beloha,2279
-26879,Belon\'i Tsiribihina,2279
+26879,Belon i Tsiribihina,2279
 26880,Beroroha,2279
 26881,Betioky,2279
 26882,Miandrivazo,2279
@@ -27035,15 +27035,15 @@ id,name,state_id
 27450,Kifah,2400
 27451,Alaq,2401
 27452,Buqah,2401
-27453,Magta\' Lahjar,2401
-27454,\'Ayun-al-\'Atrus,2403
+27453,Magta  Lahjar,2401
+27454,Ayun-al- Atrus,2403
 27455,Kubanni,2403
 27456,Timbedra,2404
 27457,Walatah,2404
-27458,an-Na\'mah,2404
+27458,an-Na mah,2404
 27459,Aqjawajat,2405
 27460,Nawakshut,2406
-27461,Hsay Walad \'Ali Babi,2407
+27461,Hsay Walad  Ali Babi,2407
 27462,Kayhaydi,2408
 27463,Tijiqjah,2409
 27464,Rusu,2411
@@ -27067,15 +27067,15 @@ id,name,state_id
 27482,Quatre Soeurs,2414
 27483,Queen Victoria,2414
 27484,Saint Julien,2414
-27485,Saint Julien d\'Hotman,2414
+27485,Saint Julien d Hotman,2414
 27486,Sebastopol,2414
-27487,Trou d\'Eau Douce,2414
+27487,Trou d Eau Douce,2414
 27488,Floreal,2415
 27489,Camp Thorel,2417
 27490,Dagotiere,2417
 27491,Dubreuil,2417
 27492,Esperance,2417
-27493,L\'Avenir,2417
+27493,L Avenir,2417
 27494,La Laura-Malenga,2417
 27495,Melrose,2417
 27496,Moka,2417
@@ -27091,7 +27091,7 @@ id,name,state_id
 27506,Calebasses,2418
 27507,Congomah,2418
 27508,Creve Coeur,2418
-27509,D\'Epinay,2418
+27509,D Epinay,2418
 27510,Fond du Sac,2418
 27511,La Tour Koenig,2418
 27512,Le Hochet,2418
@@ -29126,7 +29126,7 @@ id,name,state_id
 29541,Rabnita,2475
 29542,Slobozia,2475
 29543,Tighina,2475
-29544,Tiraspol\,2475
+29544,Tiraspol,2475
 29545,Calarasi,2476
 29546,Nisporeni,2476
 29547,Ungheni,2476
@@ -29171,7 +29171,7 @@ id,name,state_id
 29586,Asfi,2507
 29587,Azimur,2507
 29588,Sidi Binnur,2507
-29589,Sidi Isma\'il,2507
+29589,Sidi Isma il,2507
 29590,Yussufiyah,2507
 29591,al-Jadidah,2507
 29592,Fas,2508
@@ -29184,7 +29184,7 @@ id,name,state_id
 29599,Kenitra,2511
 29600,Amalu Ighriban,2513
 29601,Azru,2513
-29602,Jama\'at-al-Marirt,2513
+29602,Jama at-al-Marirt,2513
 29603,Khanifrah,2513
 29604,Meknes,2513
 29605,Midalt,2513
@@ -29223,7 +29223,7 @@ id,name,state_id
 29638,Tanjah,2522
 29639,Tittawin,2522
 29640,Titwan,2522
-29641,al-\'Ara\'ish,2522
+29641,al- Ara ish,2522
 29642,al-Qasr-al-Kabir,2522
 29643,Chibuto,2527
 29644,Chidenguele,2527
@@ -29667,7 +29667,7 @@ id,name,state_id
 30082,Vilt Limburg,2592
 30083,Voerendaal,2592
 30084,Weert,2592
-30085,\'s-Hertogenbosch,2593
+30085,s-Hertogenbosch,2593
 30086,Aalburg,2593
 30087,Alphen-Chaam,2593
 30088,Asten,2593
@@ -29942,9 +29942,9 @@ id,name,state_id
 30357,Vlissingen,2598
 30358,Zierikzee,2598
 30359,Zijpe,2598
-30360,\'s-Gravendeel,2599
-30361,\'s-Gravenhage,2599
-30362,\'s-Gravenzande,2599
+30360,s-Gravendeel,2599
+30361,s-Gravenhage,2599
+30362,s-Gravenzande,2599
 30363,Alblasserdam,2599
 30364,Albrandswaard,2599
 30365,Alkemade,2599
@@ -30234,8 +30234,8 @@ id,name,state_id
 30649,Tchirozerine,2639
 30650,Diffa,2640
 30651,Maine-Soroa,2640
-30652,N\'Guigmi,2640
-30653,Birni N\'Gaoure,2641
+30652,N Guigmi,2640
+30653,Birni N Gaoure,2641
 30654,Boboye,2641
 30655,Dogondoutchi,2641
 30656,Dosso,2641
@@ -30251,12 +30251,12 @@ id,name,state_id
 30666,Tessaoua,2642
 30667,Tibiri,2642
 30668,Niamey,2643
-30669,Birni N\'Konni,2644
+30669,Birni N Konni,2644
 30670,Bouza,2644
 30671,Illela,2644
 30672,Keita,2644
 30673,Madaoua,2644
-30674,Malbaza\'uzine,2644
+30674,Malbaza uzine,2644
 30675,Tahoua,2644
 30676,Tchintabaraden,2644
 30677,Ayorou,2645
@@ -30838,10 +30838,10 @@ id,name,state_id
 31253,as-Sib,2715
 31254,Khasab,2716
 31255,Rusayl,2717
-31256,Bahla\,2719
+31256,Bahla,2719
 31257,Nizwa,2719
 31258,Sumayl,2719
-31259,\'Ibri,2720
+31259,Ibri,2720
 31260,al-Buraymi,2720
 31261,Al khuwair,2721
 31262,Barkah,2721
@@ -30849,7 +30849,7 @@ id,name,state_id
 31264,Shinas,2721
 31265,Suhar,2721
 31266,al-Khaburah,2721
-31267,al-Masna\'ah,2721
+31267,al-Masna ah,2721
 31268,ar-Rustaq,2721
 31269,as-Suwayq,2721
 31270,Ibra,2722
@@ -30894,7 +30894,7 @@ id,name,state_id
 31309,Zehri,2723
 31310,Zhob,2723
 31311,Ziarat,2723
-31312,\'Abdul Hakim,2728
+31312,Abdul Hakim,2728
 31313,Ahmadpur East,2728
 31314,Ahmadpur Lumma,2728
 31315,Ahmadpur Sial,2728
@@ -31312,7 +31312,7 @@ id,name,state_id
 31727,Yattah,2761
 31728,ad-Dahiriyah,2761
 31729,al-Khalil,2761
-31730,Ma\'ale Adummim,2762
+31730,Ma ale Adummim,2762
 31731,al-Quds,2762
 31732,Alanje,2764
 31733,Bajo Boquete,2764
@@ -32682,7 +32682,7 @@ id,name,state_id
 33097,Dukhan,2925
 33098,al-Jumayliyah,2925
 33099,al-Khawr,2926
-33100,Musay\'id,2927
+33100,Musay id,2927
 33101,al-Wakrah,2927
 33102,al-Wukayr,2927
 33103,ar-Rayyan,2928
@@ -32698,7 +32698,7 @@ id,name,state_id
 33113,Saint-Denis,2931
 33114,Sainte-Marie,2931
 33115,Sainte-Suzanne,2931
-33116,L\'Etang-Sale,2932
+33116,L Etang-Sale,2932
 33117,Les Aviron,2932
 33118,Les Trois-Bassins,2932
 33119,Saint-Leu,2932
@@ -36973,8 +36973,8 @@ id,name,state_id
 37388,Mulifanua,3121
 37389,Solosolo,3122
 37390,Safotulafai,3123
-37391,Samalae\'ulu,3124
-37392,A\'opo,3125
+37391,Samalae ulu,3124
+37392,A opo,3125
 37393,Taga,3126
 37394,Gautavai,3127
 37395,Apia,3128
@@ -36994,10 +36994,10 @@ id,name,state_id
 37409,Santo Antonio,3145
 37410,Mahayel,3147
 37411,Abha,3149
-37412,Abu \'Aris,3149
+37412,Abu  Aris,3149
 37413,Khamis Mushayt,3149
-37414,Qal\'at Bishah,3149
-37415,Ha\'il,3152
+37414,Qal at Bishah,3149
+37415,Ha il,3152
 37416,Jawf,3153
 37417,Sakakah,3153
 37418,Jizan,3154
@@ -37005,27 +37005,27 @@ id,name,state_id
 37420,Makkah,3155
 37421,Rabig,3155
 37422,al-Hawiyah,3155
-37423,at-Ta\'if,3155
-37424,Dar\'iyah,3156
+37423,at-Ta if,3155
+37424,Dar iyah,3156
 37425,Najran,3156
 37426,Sharurah,3156
-37427,\'Unayzah,3157
+37427,Unayzah,3157
 37428,Buraydah,3157
 37429,ar-Rass,3157
 37430,Tabuk,3158
 37431,Umm Lajj,3158
 37432,al-Bahah,3160
-37433,Ara\'ar,3161
+37433,Ara ar,3161
 37434,Rafha,3161
 37435,Turayf,3161
 37436,al-Qurayyat,3161
 37437,Yanbu,3162
 37438,al-Madinah,3162
-37439,\'Afif,3163
+37439,Afif,3163
 37440,ad-Dawadimi,3163
 37441,ad-Dilam,3163
 37442,al-Kharj,3163
-37443,al-Majma\'ah,3163
+37443,al-Majma ah,3163
 37444,ar-Riyad,3163
 37445,az-Zulfi,3163
 37446,Dakar,3164
@@ -37129,8 +37129,8 @@ id,name,state_id
 37544,Brezno,3187
 37545,Chierny Balog,3187
 37546,Detva,3187
-37547,Fil\'akovo,3187
-37548,Hnusht\'a,3187
+37547,Fil akovo,3187
+37548,Hnusht a,3187
 37549,Hrinova,3187
 37550,Kremnica,3187
 37551,Krupina,3187
@@ -37142,8 +37142,8 @@ id,name,state_id
 37557,Rimavska Sobota,3187
 37558,Sliach,3187
 37559,Tisovec,3187
-37560,Tornal\'a,3187
-37561,Vel\'ky Krtish,3187
+37560,Tornal a,3187
+37561,Vel ky Krtish,3187
 37562,Vlkanova,3187
 37563,Zharnovica,3187
 37564,Zhiar,3187
@@ -37164,7 +37164,7 @@ id,name,state_id
 37579,Dobshina,3189
 37580,Gelnica,3189
 37581,Kosice,3189
-37582,Kral\'ovsky Chlmec,3189
+37582,Kral ovsky Chlmec,3189
 37583,Krompachy,3189
 37584,Medzev,3189
 37585,Michalovce,3189
@@ -37176,7 +37176,7 @@ id,name,state_id
 37591,Sobrance,3189
 37592,Strazhske,3189
 37593,Trebishov,3189
-37594,Vel\'ke Kapushany,3189
+37594,Vel ke Kapushany,3189
 37595,Vranov,3189
 37596,Dvory nad Zhitavou,3190
 37597,Hurbanovo,3190
@@ -37191,7 +37191,7 @@ id,name,state_id
 37606,Nove Zamky,3190
 37607,Palarikovo,3190
 37608,Shahy,3190
-37609,Shal\'a,3190
+37609,Shal a,3190
 37610,Shturovo,3190
 37611,Shurany,3190
 37612,Svodin,3190
@@ -37215,11 +37215,11 @@ id,name,state_id
 37630,Spishska Bela,3191
 37631,Spishska Nova Ves,3191
 37632,Spishske Podhradie,3191
-37633,Stara L\'ubovna,3191
+37633,Stara L ubovna,3191
 37634,Stropkov,3191
 37635,Svidnik,3191
 37636,Svit,3191
-37637,Vel\'ky Sharish,3191
+37637,Vel ky Sharish,3191
 37638,Vysoke Tatry,3191
 37639,Banovce,3192
 37640,Belusha,3192
@@ -37240,7 +37240,7 @@ id,name,state_id
 37655,Prievidza,3192
 37656,Puchov,3192
 37657,Stara Tura,3192
-37658,Topol\'chany,3192
+37658,Topol chany,3192
 37659,Trenchianske Teplice,3192
 37660,Trenchin,3192
 37661,Trencin,3192
@@ -37253,18 +37253,18 @@ id,name,state_id
 37668,Holich,3193
 37669,Kuty,3193
 37670,Leopoldov,3193
-37671,Piesht\'any,3193
+37671,Piesht any,3193
 37672,Piestany,3193
 37673,Senica,3193
-37674,Sered\,3193
+37674,Sered,3193
 37675,Shamorin,3193
 37676,Shashtin-Strazhe,3193
 37677,Shoporna,3193
 37678,Skalica,3193
 37679,Sladkovichovo,3193
 37680,Trnava,3193
-37681,Vel\'ke Ul\'any,3193
-37682,Vel\'ky Meder,3193
+37681,Vel ke Ul any,3193
+37682,Vel ky Meder,3193
 37683,Vrbove,3193
 37684,Bytcha,3194
 37685,Chadca,3194
@@ -37292,7 +37292,7 @@ id,name,state_id
 37707,Turchianske Teplice,3194
 37708,Turzovka,3194
 37709,Tvrdoshin,3194
-37710,Vel\'ke Rovne,3194
+37710,Vel ke Rovne,3194
 37711,Vrutky,3194
 37712,Zakamenne,3194
 37713,Zhilina,3194
@@ -37567,14 +37567,14 @@ id,name,state_id
 37982,Baki,3221
 37983,Borama,3221
 37984,Gebilay,3221
-37985,Sayla\,3221
+37985,Sayla,3221
 37986,Tayeglo,3222
 37987,Xuddur,3222
 37988,Yet,3222
 37989,Muqdisho,3223
-37990,\'Alula,3224
+37990,Alula,3224
 37991,Bandarbeyla,3224
-37992,Bandarmu\'ayo,3224
+37992,Bandarmu ayo,3224
 37993,Bargal,3224
 37994,Bereda,3224
 37995,Bosaso,3224
@@ -37585,30 +37585,30 @@ id,name,state_id
 38000,Baydhabo,3225
 38001,Bur Hakkaba,3225
 38002,Dinsor,3225
-38003,\'Elbur,3226
-38004,\'Eldhere,3226
+38003,Elbur,3226
+38004,Eldhere,3226
 38005,Dhusa Marreb,3226
 38006,Bardhere,3227
 38007,Dolaw,3227
 38008,Dujuma,3227
 38009,Garbaharey,3227
 38010,Luq,3227
-38011,Sa\'o,3227
+38011,Sa o,3227
 38012,Wajid,3227
-38013,Bal\'ad,3228
+38013,Bal ad,3228
 38014,Beled Weyne,3228
 38015,Bulobarde,3228
 38016,Jalalassi,3228
-38017,Galka\'yo,3231
+38017,Galka yo,3231
 38018,Hobyo,3231
 38019,Xarardhere,3231
 38020,Eyl,3232
 38021,Garowe,3232
-38022,Las\'anod,3232
-38023,\'Erigabo,3233
+38022,Las anod,3232
+38023,Erigabo,3233
 38024,Lasqoray,3233
-38025,\'Ek,3236
-38026,Bur\'o,3236
+38025,Ek,3236
+38026,Bur o,3236
 38027,Odweyne,3236
 38028,Alberton,3240
 38029,Alrode,3240
@@ -37731,7 +37731,7 @@ id,name,state_id
 38146,Elx,3255
 38147,Guardamar del Segura,3255
 38148,Ibi,3255
-38149,L\'Alfas del Pi,3255
+38149,L Alfas del Pi,3255
 38150,La Vila Joiosa,3255
 38151,Monover,3255
 38152,Mutxamel,3255
@@ -37743,7 +37743,7 @@ id,name,state_id
 38158,Pilar de la Horadada,3255
 38159,Pinoso,3255
 38160,Rojales,3255
-38161,Sant Joan d\'Alacant,3255
+38161,Sant Joan d Alacant,3255
 38162,Sant Vicent del Raspeig,3255
 38163,Santa Pola,3255
 38164,Sax,3255
@@ -37857,11 +37857,11 @@ id,name,state_id
 38272,Gava,3264
 38273,Granollers,3264
 38274,Igualada,3264
-38275,L\'Hospitalet de Llobregat,3264
+38275,L Hospitalet de Llobregat,3264
 38276,La Garriga,3264
 38277,La Llagosta,3264
 38278,Les Franquesas del Valles,3264
-38279,Llica d\'Amunt,3264
+38279,Llica d Amunt,3264
 38280,Malgrat de Mar,3264
 38281,Manlleu,3264
 38282,Manresa,3264
@@ -37895,7 +37895,7 @@ id,name,state_id
 38310,Sant Just Desvern,3264
 38311,Sant Pere de Ribes,3264
 38312,Sant Quirze del Valles,3264
-38313,Sant Sadurni d\'Anoia,3264
+38313,Sant Sadurni d Anoia,3264
 38314,Sant Vicenc dels Horts,3264
 38315,Santa Coloma de Gramenet,3264
 38316,Santa Margarida de Montbui,3264
@@ -37968,8 +37968,8 @@ id,name,state_id
 38383,Benicassim,3271
 38384,Burriana,3271
 38385,Castello,3271
-38386,L\'Alcora,3271
-38387,La Vall d\'Uixo,3271
+38386,L Alcora,3271
+38387,La Vall d Uixo,3271
 38388,Nules,3271
 38389,Onda,3271
 38390,Segorbe,3271
@@ -38005,7 +38005,7 @@ id,name,state_id
 38420,Empuriabrava,3284
 38421,Figueres,3284
 38422,Girona,3284
-38423,La Bisbal d\'Emporda,3284
+38423,La Bisbal d Emporda,3284
 38424,Lloret de Mar,3284
 38425,Massanet de la Selva,3284
 38426,Olot,3284
@@ -38115,7 +38115,7 @@ id,name,state_id
 38530,Villaquilambre,3293
 38531,Tora,3295
 38532,Balaguer,3295
-38533,La Seu d\'Urgell,3295
+38533,La Seu d Urgell,3295
 38534,Lleida,3295
 38535,Mollerussa,3295
 38536,Tarrega,3295
@@ -38367,8 +38367,8 @@ id,name,state_id
 38782,Elche,3315
 38783,Gandia,3315
 38784,Godella,3315
-38785,L\'Alcudia,3315
-38786,L\'Eliana,3315
+38785,L Alcudia,3315
+38786,L Eliana,3315
 38787,La Pobla de Vallbona,3315
 38788,Lliria,3315
 38789,Los Montesinos,3315
@@ -38527,7 +38527,7 @@ id,name,state_id
 38942,Khashm-al-Qirbah,3363
 38943,Wagar,3363
 38944,al-Masnah,3363
-38945,\'Atbarah,3364
+38945,Atbarah,3364
 38946,Barbar,3364
 38947,Kabushiyah,3364
 38948,Shandi,3364
@@ -38538,7 +38538,7 @@ id,name,state_id
 38953,Torit,3368
 38954,Abu Hijar,3369
 38955,Galgani,3369
-38956,Hajj \'Abdallah,3369
+38956,Hajj  Abdallah,3369
 38957,Karkawj,3369
 38958,Mayurnu,3369
 38959,Sinjah,3369
@@ -38557,11 +38557,11 @@ id,name,state_id
 38972,Tawkar,3372
 38973,Rumbik,3373
 38974,Yirol,3373
-38975,Abu \'Usar,3374
-38976,Arba\'atun wa \'Ishrun-al-Qurash,3374
+38975,Abu  Usar,3374
+38976,Arba atun wa  Ishrun-al-Qurash,3374
 38977,Maharaybah,3374
 38978,Miallayab,3374
-38979,Rufa\'a,3374
+38979,Rufa a,3374
 38980,Sharafat,3374
 38981,Tabat,3374
 38982,Tambul,3374
@@ -38574,14 +38574,14 @@ id,name,state_id
 38989,al-Kamilin,3374
 38990,al-Karaymat,3374
 38991,al-Manaqil,3374
-38992,al-Mu\'sadiyah,3374
+38992,al-Mu sadiyah,3374
 38993,al-Musallamiyah,3374
 38994,Umm Dawm,3375
 38995,Umm Durman,3375
 38996,al-Khartum,3375
 38997,al-Khartum Bahri,3375
 38998,Doka,3376
-38999,Qala\'-an-Nahl,3376
+38999,Qala -an-Nahl,3376
 39000,Shuwak,3376
 39001,al-Faw,3376
 39002,al-Hawatah,3376
@@ -38615,7 +38615,7 @@ id,name,state_id
 39030,Kuraymah,3380
 39031,Kurti,3380
 39032,Marawi,3380
-39033,Tangasi-ar-Ru\'ays,3380
+39033,Tangasi-ar-Ru ays,3380
 39034,Wadi Halfa,3380
 39035,ad-Dabbah,3380
 39036,Brokopondo,3381
@@ -38641,7 +38641,7 @@ id,name,state_id
 39056,Ezulwini,3391
 39057,Mbabane,3391
 39058,Ngwenya,3391
-39059,Pigg\'s Peak,3391
+39059,Pigg s Peak,3391
 39060,Big Bend,3392
 39061,Mhlume,3392
 39062,Mpaka,3392
@@ -39180,7 +39180,7 @@ id,name,state_id
 39595,Zumikon,3455
 39596,Zurich,3455
 39597,Aleppo,3456
-39598,Dar\'a,3457
+39598,Dar a,3457
 39599,Nawa,3457
 39600,Abu Kamal,3458
 39601,Dayr az-Zawr,3458
@@ -39199,9 +39199,9 @@ id,name,state_id
 39614,an-Nabk,3459
 39615,at-Tall,3459
 39616,az-Zabadani,3459
-39617,\'Afrin,3460
-39618,\'Ayn-al-\'Arab,3460
-39619,A\'zaz,3460
+39617,Afrin,3460
+39618,Ayn-al- Arab,3460
+39619,A zaz,3460
 39620,Halab,3460
 39621,Manbij,3460
 39622,al-Bab,3460
@@ -39218,11 +39218,11 @@ id,name,state_id
 39633,Ariha,3463
 39634,Idlib,3463
 39635,Jisr-ash-Shughur,3463
-39636,Ma\'arrat-an-Nu\'man,3463
+39636,Ma arrat-an-Nu man,3463
 39637,Baniyas,3465
 39638,Safita,3465
 39639,Tartus,3465
-39640,Ra\'s-al-\'Ayn,3466
+39640,Ra s-al- Ayn,3466
 39641,al-Hasakah,3466
 39642,al-Malikiyah,3466
 39643,al-Qamishli,3466
@@ -39320,7 +39320,7 @@ id,name,state_id
 39735,Kulob,3503
 39736,Kumsangir,3503
 39737,Moskva,3503
-39738,Mu\'minobod,3503
+39738,Mu minobod,3503
 39739,Nurak,3503
 39740,Pyanj,3503
 39741,Qurgonteppa,3503
@@ -39574,8 +39574,8 @@ id,name,state_id
 39989,Pangai,3613
 39990,Hihifo,3614
 39991,Haveloloto,3615
-39992,Mu\'a,3615
-39993,Nuku\'alofa,3615
+39992,Mu a,3615
+39993,Nuku alofa,3615
 39994,Tofoa-Koloua,3615
 39995,Vaini,3615
 39996,Neiafu,3616
@@ -39593,9 +39593,9 @@ id,name,state_id
 40008,Scarborough,3632
 40009,Aryanah,3633
 40010,Bordj Aalouine,3633
-40011,Burj-al-\'Amri,3633
+40011,Burj-al- Amri,3633
 40012,La Soukra,3633
-40013,Qal\'at-al-Andalus,3633
+40013,Qal at-al-Andalus,3633
 40014,Sidi Thabit,3633
 40015,Taburbah,3633
 40016,Wadi al-Layl,3633
@@ -39611,11 +39611,11 @@ id,name,state_id
 40026,Tabursuq,3634
 40027,Tastur,3634
 40028,Zahrat Madina,3634
-40029,al-Ma\'qulah,3634
-40030,\'Awsajah,3636
+40029,al-Ma qulah,3634
+40030,Awsajah,3636
 40031,Binzart,3636
 40032,Ghar-al-Milh,3636
-40033,Manzil \'Abd-ar-Rahman,3636
+40033,Manzil  Abd-ar-Rahman,3636
 40034,Manzil Bu Ruqaybah,3636
 40035,Manzil Jamil,3636
 40036,Matir,3636
@@ -39623,13 +39623,13 @@ id,name,state_id
 40038,Ras-al-Jabal,3636
 40039,Sajanan,3636
 40040,Tinjah,3636
-40041,al-\'Aliyah,3636
+40041,al- Aliyah,3636
 40042,al-Matlin,3636
-40043,\'Ayn Darahim,3641
+40043,Ayn Darahim,3641
 40044,Bani Matir,3641
 40045,Bu Salim,3641
 40046,Firnanah,3641
-40047,Ghar-ad-Dima\,3641
+40047,Ghar-ad-Dima,3641
 40048,Jundubah,3641
 40049,Tabarqah,3641
 40050,Wadi Maliz,3641
@@ -39645,9 +39645,9 @@ id,name,state_id
 40060,Azimur,3645
 40061,Bani Hiyar,3645
 40062,Bani Khallad,3645
-40063,Bu \'Urqub,3645
-40064,Dar \'Alush,3645
-40065,Dar Sha\'ban,3645
+40063,Bu  Urqub,3645
+40064,Dar  Alush,3645
+40065,Dar Sha ban,3645
 40066,Hammam-al-Aghzaz,3645
 40067,Manzil Bu Zalafah,3645
 40068,Manzil Hurr,3645
@@ -39663,9 +39663,9 @@ id,name,state_id
 40078,Zawiyat-al-Jadidi,3645
 40079,al-Hammamat,3645
 40080,al-Huwariyah,3645
-40081,al-Ma\'murah,3645
+40081,al-Ma murah,3645
 40082,al-Middah,3645
-40083,as-Sama\'ah,3645
+40083,as-Sama ah,3645
 40084,Ghannush,3646
 40085,Marath,3646
 40086,Matmatat-al-Jadidah,3646
@@ -39677,7 +39677,7 @@ id,name,state_id
 40092,al-Matwiyah,3646
 40093,az-Zarat,3646
 40094,Qafsah,3647
-40095,Umm-al-\'Arais,3647
+40095,Umm-al- Arais,3647
 40096,al-Madilah,3647
 40097,al-Mitlawi,3647
 40098,al-Qasr,3647
@@ -39688,9 +39688,9 @@ id,name,state_id
 40103,Jamnah,3648
 40104,Qibili,3648
 40105,Suq-al-Ahad,3648
-40106,al-Qal\'ah,3648
-40107,\'Aqarib,3649
-40108,Bi\'r Ali Bin Khalifah,3649
+40106,al-Qal ah,3648
+40107,Aqarib,3649
+40108,Bi r Ali Bin Khalifah,3649
 40109,Jabinyanah,3649
 40110,Manzil Shakir,3649
 40111,Qarmadah,3649
@@ -39700,20 +39700,20 @@ id,name,state_id
 40115,Saqiyat-az-Zayt,3649
 40116,Sfax,3649
 40117,Tinah,3649
-40118,al-\'Ayn,3649
+40118,al- Ayn,3649
 40119,al-Hanashah,3649
 40120,al-Mahras,3649
 40121,as-Sukhayrah,3649
 40122,ash-Shayhiyah,3649
 40123,Sfax,3650
 40124,Barqu,3652
-40125,Bu \'Aradah,3652
+40125,Bu  Aradah,3652
 40126,Bu Ruwis,3652
 40127,Kasra,3652
 40128,Makthar,3652
-40129,Qa\'afur,3652
+40129,Qa afur,3652
 40130,Silyanah,3652
-40131,al-\'Arusah,3652
+40131,al- Arusah,3652
 40132,al-Karib,3652
 40133,ar-Rawhiyah,3652
 40134,Akkudah,3653
@@ -39722,16 +39722,16 @@ id,name,state_id
 40137,Harqalah,3653
 40138,Masakin,3653
 40139,Qusaybat-ath-Thurayat,3653
-40140,Sidi Bu \'Ali,3653
+40140,Sidi Bu  Ali,3653
 40141,Sidi al-Hani,3653
 40142,Susah,3653
 40143,Zawiyat Susah,3653
-40144,al-Masa\'din,3653
-40145,al-Qal\'at-al-Kabirah,3653
-40146,al-Qal\'at-as-Saghirah,3653
+40144,al-Masa din,3653
+40145,al-Qal at-al-Kabirah,3653
+40146,al-Qal at-as-Saghirah,3653
 40147,an-Nafidah,3653
 40148,az-Zuhur,3653
-40149,Bi\'r-al-Ahmar,3654
+40149,Bi r-al-Ahmar,3654
 40150,Dhahibah,3654
 40151,Ghumrassin,3654
 40152,Rimadah,3654
@@ -39747,10 +39747,10 @@ id,name,state_id
 40162,Halq-al-Wadi,3656
 40163,Megrine,3656
 40164,Qartaj,3656
-40165,Sidi Bu Sa\'id,3656
+40165,Sidi Bu Sa id,3656
 40166,Tunis,3656
 40167,al-Marsa,3656
-40168,Bi\'r Mashariqah,3657
+40168,Bi r Mashariqah,3657
 40169,Jabal-al-Wust,3657
 40170,Zaghwan,3657
 40171,al-Fahs,3657
@@ -39758,13 +39758,13 @@ id,name,state_id
 40173,az-Zaribah,3657
 40174,Manzil Salim,3658
 40175,Nibbar,3658
-40176,Qal\'at-as-Sanan,3658
+40176,Qal at-as-Sanan,3658
 40177,Saqiyat Sidi Yussuf,3658
 40178,Tajarwin,3658
 40179,ad-Dahmani,3658
 40180,al-Jarissah,3658
 40181,al-Kaf,3658
-40182,al-Qal\'at-al-Khasba\,3658
+40182,al-Qal at-al-Khasba,3658
 40183,al-Qusur,3658
 40184,as-Sars,3658
 40185,at-Tawiraf,3658
@@ -39776,15 +39776,15 @@ id,name,state_id
 40191,Qusur-as-Saf,3659
 40192,Rajish,3659
 40193,Shurban,3659
-40194,Sidi \'Ulwan,3659
-40195,al-Baradi\'ah,3659
+40194,Sidi  Ulwan,3659
+40195,al-Baradi ah,3659
 40196,al-Jamm,3659
 40197,al-Mahdiyah,3659
 40198,as-Sawasi,3659
 40199,ash-Shabbah,3659
-40200,\'Amirat-al-Fahul,3660
-40201,\'Amirat-al-Hajjaj,3660
-40202,\'Amirat-at-Tawazarah,3660
+40200,Amirat-al-Fahul,3660
+40201,Amirat-al-Hajjaj,3660
+40202,Amirat-at-Tawazarah,3660
 40203,Banan Budar,3660
 40204,Banblat wal-Manarah,3660
 40205,Bani Hassan,3660
@@ -39799,9 +39799,9 @@ id,name,state_id
 40214,Manzil Nur,3660
 40215,Qasr Hallal,3660
 40216,Qusaybat-al-Madyuni,3660
-40217,Sahilin Ma\'atmar,3660
+40217,Sahilin Ma atmar,3660
 40218,Sayyadah,3660
-40219,Sidi \'Amara,3660
+40219,Sidi  Amara,3660
 40220,Sidi Bin Nur,3660
 40221,Tabulbah,3660
 40222,Tuzah,3660
@@ -39817,19 +39817,19 @@ id,name,state_id
 40232,Fussanah,3661
 40233,Haydrah,3661
 40234,Jadliyan,3661
-40235,Majal Bal \'Abbas,3661
+40235,Majal Bal  Abbas,3661
 40236,Sabibah,3661
 40237,Subaytilah,3661
 40238,Talabat,3661
 40239,Talah,3661
 40240,al-Qasrayn,3661
-40241,\'Ayn Jalulah,3662
+40241,Ayn Jalulah,3662
 40242,Buhajlah,3662
 40243,Haffuz,3662
-40244,Hajib-al-\'Ayun,3662
+40244,Hajib-al- Ayun,3662
 40245,Manzil Mahidi,3662
 40246,Nasr Allah,3662
-40247,al-\'Ala,3662
+40247,al- Ala,3662
 40248,al-Qayrawan,3662
 40249,al-Waslatiyah,3662
 40250,as-Subaykhah,3662
@@ -40855,7 +40855,7 @@ id,name,state_id
 41270,Rukungiri,3765
 41271,Cherkasy,3766
 41272,Smila,3766
-41273,Uman\,3766
+41273,Uman,3766
 41274,Chernihiv,3767
 41275,Nizhyn,3767
 41276,Pryluky,3767
@@ -40865,31 +40865,31 @@ id,name,state_id
 41280,Dneprodzerzhinsk,3770
 41281,Dnipropetrovsk,3770
 41282,Kryvyy Rih,3770
-41283,Marhanets\,3770
-41284,Nikopol\,3770
-41285,Novomoskovs\'k,3770
+41283,Marhanets,3770
+41284,Nikopol,3770
+41285,Novomoskovs k,3770
 41286,Pavlohrad,3770
 41287,Plekhanov,3770
 41288,Zhovti Vody,3770
-41289,Artemivs\'k,3771
-41290,Donets\'k,3771
+41289,Artemivs k,3771
+41290,Donets k,3771
 41291,Donetsk,3771
 41292,Druzhkivka,3771
 41293,Dymytrov,3771
-41294,Dzerzhyns\'k,3771
+41294,Dzerzhyns k,3771
 41295,Horlivka,3771
-41296,Khartsyz\'k,3771
+41296,Khartsyz k,3771
 41297,Kostyantynivka,3771
-41298,Kramators\'k,3771
-41299,Krasnoarmiys\'k,3771
+41298,Kramators k,3771
+41299,Krasnoarmiys k,3771
 41300,Makiyivka,3771
-41301,Mariupol\,3771
-41302,Shakhtars\'k,3771
-41303,Slov\'yans\'k,3771
+41301,Mariupol,3771
+41302,Shakhtars k,3771
+41303,Slov yans k,3771
 41304,Snizhne,3771
 41305,Torez,3771
 41306,Yenakiyeve,3771
-41307,Ivano-Frankivs\'k,3772
+41307,Ivano-Frankivs k,3772
 41308,Kalush,3772
 41309,Kolomyya,3772
 41310,Izyum,3773
@@ -40899,8 +40899,8 @@ id,name,state_id
 41314,Kherson,3775
 41315,Nova Kakhovka,3775
 41316,Geologov,3776
-41317,Kam\'yanets\'-Podil\'s\'kyy,3776
-41318,Khmel\'nyts\'kyy,3776
+41317,Kam yanets -Podil s kyy,3776
+41318,Khmel nyts kyy,3776
 41319,Shepetivka,3776
 41320,khmelnitskiy,3776
 41321,Kirovohrad,3777
@@ -40909,42 +40909,42 @@ id,name,state_id
 41324,Dzhankoy,3778
 41325,Feodosiya,3778
 41326,Kerch,3778
-41327,Simferopol\,3778
+41327,Simferopol,3778
 41328,Yalta,3778
 41329,Yevpatoriya,3778
 41330,Kiev,3779
 41331,Kyyiv,3779
 41332,Bila Tserkva,3780
-41333,Boryspil\,3780
+41333,Boryspil,3780
 41334,Brovary,3780
 41335,Fastiv,3780
 41336,Chervonohrad,3781
 41337,Drohobych,3781
-41338,L\'viv,3781
+41338,L viv,3781
 41339,Stryy,3781
 41340,Yavoriv,3781
-41341,Alchevs\'k,3782
+41341,Alchevs k,3782
 41342,Antratsyt,3782
 41343,Bryanka,3782
 41344,Krasnodon,3782
 41345,Krasnyy Luch,3782
-41346,Luhans\'k,3782
+41346,Luhans k,3782
 41347,Luhansk,3782
-41348,Lysychans\'k,3782
-41349,Pervomays\'k,3782
-41350,Roven\'ky,3782
+41348,Lysychans k,3782
+41349,Pervomays k,3782
+41350,Roven ky,3782
 41351,Rubizhne,3782
 41352,Stakhanov,3782
-41353,Sverdlovs\'k,3782
-41354,Syeverodonets\'k,3782
+41353,Sverdlovs k,3782
+41354,Syeverodonets k,3782
 41355,Mykolayiv,3783
-41356,Pervomays\'k,3783
-41357,Bilhorod-Dnistrovs\'kyy,3784
-41358,Illichivs\'k,3784
+41356,Pervomays k,3783
+41357,Bilhorod-Dnistrovs kyy,3784
+41358,Illichivs k,3784
 41359,Izmayil,3784
 41360,Odesa,3784
 41361,Odessa,3785
-41362,Komsomol\'s\'k,3786
+41362,Komsomol s k,3786
 41363,Kremenchuh,3786
 41364,Lubny,3786
 41365,Poltava,3786
@@ -40954,21 +40954,21 @@ id,name,state_id
 41369,Romny,3789
 41370,Shostka,3789
 41371,Sumy,3789
-41372,Ternopil\,3790
-41373,Kovel\,3791
-41374,Luts\'k,3791
-41375,Novovolyns\'k,3791
+41372,Ternopil,3790
+41373,Kovel,3791
+41374,Luts k,3791
+41375,Novovolyns k,3791
 41376,Vinnitsa,3792
 41377,Vinnytsya,3792
 41378,Mukacheve,3793
 41379,Uzhhorod,3793
-41380,Berdyans\'k,3794
+41380,Berdyans k,3794
 41381,Enerhodar,3794
-41382,Melitpol\,3794
+41382,Melitpol,3794
 41383,Zaporizhia,3794
 41384,Berdychiv,3795
-41385,Korosten\,3795
-41386,Novohrad-Volyns\'kyy,3795
+41385,Korosten,3795
+41386,Novohrad-Volyns kyy,3795
 41387,Zhytomyr,3795
 41388,Ajman,3797
 41389,Al Qusais,3798
@@ -41197,7 +41197,7 @@ id,name,state_id
 41612,Birkenhead,3842
 41613,Birmingham,3842
 41614,Bishop Auckland,3842
-41615,Bishop\'s Stortford,3842
+41615,Bishop s Stortford,3842
 41616,Blackburn,3842
 41617,Blackpool,3842
 41618,Bletchley,3842
@@ -41376,7 +41376,7 @@ id,name,state_id
 41791,Kettering,3842
 41792,Kidderminster,3842
 41793,Kidsgrove,3842
-41794,King\'s Lynn,3842
+41794,King s Lynn,3842
 41795,Kingsteignton,3842
 41796,Kingston upon Hull,3842
 41797,Kingswood,3842
@@ -41407,7 +41407,7 @@ id,name,state_id
 41822,Lowestoft,3842
 41823,Luton,3842
 41824,Lyminge,3842
-41825,Lytham Saint Anne\'s,3842
+41825,Lytham Saint Anne s,3842
 41826,Mablethorpe and Sutton,3842
 41827,Macclesfield,3842
 41828,Maghull-Lydiate,3842
@@ -43327,7 +43327,7 @@ id,name,state_id
 43742,Lakeland,3930
 43743,Lakeland Highlands,3930
 43744,Lakeside,3930
-43745,Land O\'Lakes,3930
+43745,Land O Lakes,3930
 43746,Largo,3930
 43747,Lauderdale Lakes,3930
 43748,Lauderhill,3930
@@ -43473,7 +43473,7 @@ id,name,state_id
 43888,The Crossings,3930
 43889,The Hammocks,3930
 43890,Titusville,3930
-43891,Town\'n\'Country,3930
+43891,Town n Country,3930
 43892,University,3930
 43893,University Park,3930
 43894,Valrico,3930
@@ -43691,7 +43691,7 @@ id,name,state_id
 44106,Boulder Hill,3933
 44107,Burley,3933
 44108,Caldwell,3933
-44109,Coeur d\'Alene,3933
+44109,Coeur d Alene,3933
 44110,Eagle,3933
 44111,Garden City,3933
 44112,Idaho Falls,3933
@@ -43893,7 +43893,7 @@ id,name,state_id
 44308,Northbrook,3934
 44309,Northfield,3934
 44310,Northlake,3934
-44311,O\'Fallon,3934
+44311,O Fallon,3934
 44312,Oak Forest,3934
 44313,Oak Lawn,3934
 44314,Oak Park,3934
@@ -45063,7 +45063,7 @@ id,name,state_id
 45478,Moberly,3948
 45479,Murphy,3948
 45480,Nixa,3948
-45481,O\'Fallon,3948
+45481,O Fallon,3948
 45482,Oakville,3948
 45483,Overland,3948
 45484,Pacific,3948
@@ -46233,7 +46233,7 @@ id,name,state_id
 46648,Ashburn,3974
 46649,Ashland,3974
 46650,Aylett,3974
-46651,Bailey\'s Crossroads,3974
+46651,Bailey s Crossroads,3974
 46652,Blacksburg,3974
 46653,Bland,3974
 46654,Bluefield,3974
@@ -46954,7 +46954,7 @@ id,name,state_id
 47369,Road Town,4066
 47370,West End,4066
 47371,Kolia,4070
-47372,Mala\'e,4070
+47372,Mala e,4070
 47373,Ono,4070
 47374,Poi,4070
 47375,Tamana,4070
@@ -46978,9 +46978,9 @@ id,name,state_id
 47393,Kolopopo,4072
 47394,Lavegahau,4072
 47395,Liku,4072
-47396,Mala\'e,4072
+47396,Mala e,4072
 47397,Malaefoou,4072
-47398,Mata\'Utu,4072
+47398,Mata Utu,4072
 47399,Teesi,4072
 47400,Tepa,4072
 47401,Utuofa,4072
@@ -46988,15 +46988,15 @@ id,name,state_id
 47403,Vaimalau,4072
 47404,Vaitupu,4072
 47405,ad-Dakhlah,4074
-47406,al-\'Ayun,4075
+47406,al- Ayun,4075
 47407,as-Samarah,4076
-47408,\'Adan,4077
+47408,Adan,4077
 47409,Aden,4077
 47410,Ahwar,4078
-47411,Ja\'ar,4078
+47411,Ja ar,4078
 47412,Zinjibar,4078
 47413,Dhamar,4079
-47414,Shaqra\,4080
+47414,Shaqra,4080
 47415,al-Mukalla,4080
 47416,ash-Shahir,4080
 47417,Hajjah,4081
@@ -47004,19 +47004,19 @@ id,name,state_id
 47419,Dhi Sufal,4083
 47420,Ibb,4083
 47421,Jiblah,4083
-47422,Qa\'tabah,4083
+47422,Qa tabah,4083
 47423,Yarim,4083
 47424,Tuban,4084
-47425,Ma\'rib,4085
-47426,Sa\'dah,4087
-47427,\'Amran,4088
+47425,Ma rib,4085
+47426,Sa dah,4087
+47427,Amran,4088
 47428,Sahar,4088
 47429,Sanaa,4088
 47430,Sayyan,4088
-47431,\'Ataq,4089
+47431,Ataq,4089
 47432,Habban,4089
 47433,Taiz,4089
-47434,Ta\'izz,4090
+47434,Ta izz,4090
 47435,al-Mukha,4090
 47436,Raydah,4091
 47437,al-Bayda,4091
@@ -47024,7 +47024,7 @@ id,name,state_id
 47439,Bayt-al-Faqih,4092
 47440,Zabid,4092
 47441,al-Hudaydah,4092
-47442,al-Marawi\'ah,4092
+47442,al-Marawi ah,4092
 47443,az-Zaydiyah,4092
 47444,al-Hazm,4093
 47445,al-Ghaydah,4094

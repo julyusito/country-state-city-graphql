@@ -1,24 +1,25 @@
-# Este schema.graphql define los tipos para 'countries', 'states' y 'cities'.
+# Este schema.graphql define las tablas con los nuevos nombres en DynamoDB/AppSync
 
 input AMPLIFY { globalAuthRule: AuthRule = { allow: public } } # FOR TESTING ONLY!
 
-type countries @model {
+type ctlnbpais @model {
   id: ID!
-  name: String!
-  states: [states] @hasMany(indexName: "byCountry", fields: ["id"])
+  nombre: String!
+  estados: [ctlnbestado] @hasMany(indexName: "byPais", fields: ["id"])
 }
 
-type states @model {
+type ctlnbestado @model {
   id: ID!
-  name: String!
-  countryID: ID! @index(name: "byCountry")
-  country: countries @belongsTo(fields: ["countryID"])
-  cities: [cities] @hasMany(indexName: "byState", fields: ["id"])
+  nombre: String!
+  paisID: ID! @index(name: "byPais")
+  pais: ctlnbpais @belongsTo(fields: ["paisID"])
+  ciudades: [ctlnbciudad] @hasMany(indexName: "byEstado", fields: ["id"])
 }
 
-type cities @model {
+type ctlnbciudad @model {
   id: ID!
-  name: String!
-  stateID: ID! @index(name: "byState")
-  state: states @belongsTo(fields: ["stateID"])
+  nombre: String!
+  estadoID: ID! @index(name: "byEstado")
+  estado: ctlnbestado @belongsTo(fields: ["estadoID"])
 }
+
