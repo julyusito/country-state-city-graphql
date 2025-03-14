@@ -216,14 +216,17 @@ def cleanup_field(value: str) -> str:
 def save_data_to_csv(filename, columns, rows):
     """
     Guarda las filas (rows) en un CSV con encabezado (columns).
-    Aplica cleanup_field a cada valor.
+    Aplica cleanup_field a cada valor y los convierte a minúscula.
     """
     with open(filename, "w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
         if columns:
-            writer.writerow(columns)
+            # Pasar las columnas a minúscula
+            columns_lower = [col.lower() for col in columns]
+            writer.writerow(columns_lower)
         for row in rows:
-            cleaned_row = [cleanup_field(col) for col in row]
+            # Pasar cada campo por cleanup_field y luego a minúscula
+            cleaned_row = [cleanup_field(col).lower() for col in row]
             writer.writerow(cleaned_row)
 
     print(f"Se generó {filename} con {len(rows)} registros procesados.")
